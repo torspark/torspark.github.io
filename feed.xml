@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://torspark.com/benefits-of-weekly-billing-for-clients/"/>
     <id>http://torspark.com/benefits-of-weekly-billing-for-clients/</id>
     <published>2014-10-17T18:02:00-05:00</published>
-    <updated>2014-10-19T01:11:35-05:00</updated>
+    <updated>2014-10-20T14:34:27-05:00</updated>
     <author>
       <name>Chris Olds</name>
     </author>
@@ -74,7 +74,7 @@ through, bouncing from project to project.&lt;/p&gt;
 developer&lt;/strong&gt;. If you&amp;rsquo;re paying hourly invoices, the slower your dev works, the
 more money they&amp;rsquo;ll receive. Is that right? Your developer should be an expert
 professional. If they know you trust them to provide value, they&amp;rsquo;ll be
-encouraged to work as effeciently as possible, because procrastinating won&amp;rsquo;t
+encouraged to work as efficiently as possible, because procrastinating won&amp;rsquo;t
 make them any more money. There&amp;rsquo;s also the push to deliver value &lt;em&gt;every single
 week&lt;/em&gt;, because they know you could choose to just end the engagement at any
 time.&lt;/p&gt;
@@ -100,7 +100,7 @@ should ask them why not? You could send them a link to the
     <link rel="alternate" href="http://torspark.com/advantages-of-weekly-billing-for-developers/"/>
     <id>http://torspark.com/advantages-of-weekly-billing-for-developers/</id>
     <published>2014-10-17T17:07:00-05:00</published>
-    <updated>2014-10-19T01:10:08-05:00</updated>
+    <updated>2014-10-20T14:34:27-05:00</updated>
     <author>
       <name>Chris Olds</name>
     </author>
@@ -180,7 +180,7 @@ either way if you just stop charging hourly.&lt;/p&gt;
 &lt;p&gt;Don&amp;rsquo;t get me wrong, I think it&amp;rsquo;s smart to have a good idea of how you&amp;rsquo;re
 spending you time. But, the level of detail that hourly invoices require?
 Unnecessary. When you do want to get an idea of where you&amp;rsquo;re spending your
-time, I recommend using &lt;a href="https://www.toggl.com/"&gt;Togll&lt;/a&gt;.&lt;/p&gt;
+time, I recommend using &lt;a href="https://www.toggl.com/"&gt;Toggl&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;Scope creep will happen, and that&amp;rsquo;s ok&lt;/h3&gt;
 
@@ -199,7 +199,7 @@ referring to it every time the client wants to make a change, or eat the cost of
 making &amp;ldquo;one more little tweak&amp;rdquo; over &amp;amp; over. This doesn&amp;rsquo;t hurt too much here or
 there, but it adds up fast.&lt;/p&gt;
 
-&lt;p&gt;With hourly billing, there&amp;rsquo;s often a diconnect between what might be perceived
+&lt;p&gt;With hourly billing, there&amp;rsquo;s often a disconnect between what might be perceived
 as a simple change, and what could take you a few hours more than the client
 expected. This leads to arguments over what exactly were you doing for those
 three and a half hours on task #122. Of course, they don&amp;rsquo;t usually notice the
@@ -246,7 +246,7 @@ clients need a little convincing, encourage them to check out the
     <link rel="alternate" href="http://torspark.com/static-site-generators-jekyll-vs-octopress-vs-middleman/"/>
     <id>http://torspark.com/static-site-generators-jekyll-vs-octopress-vs-middleman/</id>
     <published>2014-10-14T22:15:00-05:00</published>
-    <updated>2014-10-17T17:58:07-05:00</updated>
+    <updated>2014-10-20T14:34:27-05:00</updated>
     <author>
       <name>Chris Olds</name>
     </author>
@@ -313,7 +313,7 @@ on my hard drive too&amp;hellip;&lt;/p&gt;
 &lt;h2&gt;Middleman&lt;/h2&gt;
 
 &lt;p&gt;Finally, after two false starts, I&amp;rsquo;ve found the perfect static site builder for me.
-Middlman is billed as a &amp;ldquo;static site generator using all the shortcuts and tools
+Middleman is billed as a &amp;ldquo;static site generator using all the shortcuts and tools
 in modern web development.&amp;rdquo;
 That&amp;rsquo;s true&amp;mdash;Middleman comes with HAML, SASS, &amp;amp; Coffeescript built in.
 Meaning I don&amp;rsquo;t have to waste time hacking on it to speed up my workflow.&lt;/p&gt;
