@@ -5,10 +5,140 @@
   <id>http://torspark.com/</id>
   <link href="http://torspark.com/"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
-  <updated>2014-10-17T18:02:00-05:00</updated>
+  <updated>2014-10-20T21:58:00-05:00</updated>
   <author>
     <name>Chris Olds</name>
   </author>
+  <entry>
+    <title>How to Calculate Article Reading Time with a Custom Middleman Extension</title>
+    <link rel="alternate" href="http://torspark.com/how-to-calculate-article-reading-time-with-a-custom-middleman-extension/"/>
+    <id>http://torspark.com/how-to-calculate-article-reading-time-with-a-custom-middleman-extension/</id>
+    <published>2014-10-20T21:58:00-05:00</published>
+    <updated>2014-10-20T23:07:29-05:00</updated>
+    <author>
+      <name>Chris Olds</name>
+    </author>
+    <summary type="html">&lt;p&gt;This is a quick how-to guide on implementing an estimated reading time feature
+for your &lt;a href="http://middlemanapp.com"&gt;Middleman&lt;/a&gt; blog with a custom Middleman
+extension.
+</summary>
+    <content type="html">&lt;p&gt;This is a quick how-to guide on implementing an estimated reading time feature
+for your &lt;a href="http://middlemanapp.com"&gt;Middleman&lt;/a&gt; blog with a custom Middleman
+extension.
+&lt;/p&gt;
+
+&lt;h2&gt;Write the custom extension&lt;/h2&gt;
+
+&lt;p&gt;You can just drop the code below into the main directory for your Middleman
+project. Mine is under &lt;code&gt;torspark.com/reading_time.rb&lt;/code&gt;. Note that this is above
+the &lt;code&gt;/source&lt;/code&gt; directory where most of your work will go in a Middleman project.
+You could also put it in a top level &lt;code&gt;/extensions&lt;/code&gt; directory alongside the
+&lt;code&gt;/source&lt;/code&gt; &amp;amp; &lt;code&gt;/build&lt;/code&gt; directories if you plan to write a lot of custom
+extensions. I don&amp;rsquo;t have a need for this yet, so I just left it as an individual
+file.&lt;/p&gt;
+&lt;div class="highlight ruby"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;&lt;span class="c1"&gt;# Outputs the reading time&lt;/span&gt;
+&lt;span class="c1"&gt;# ex: Read this in "about 3 minutes"&lt;/span&gt;
+
+&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;ReadingTime&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="no"&gt;Middleman&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Extension&lt;/span&gt;
+  &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;initialize&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;app&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;options_hash&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;super&lt;/span&gt;
+  &lt;span class="k"&gt;end&lt;/span&gt;
+
+  &lt;span class="n"&gt;helpers&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;reading_time&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;input&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+      &lt;span class="n"&gt;words_per_minute&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;180&lt;/span&gt;
+
+      &lt;span class="n"&gt;words&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;input&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;split&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;size&lt;/span&gt;
+      &lt;span class="n"&gt;minutes&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;words&lt;/span&gt;&lt;span class="sr"&gt;/&lt;/span&gt;/&lt;span class="sr"&gt;words_per_minute).floor
+      minutes_label = minutes === 1 ? ' minute' : ' minutes'
+      minutes &amp;gt; 0 ? "about &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;minutes&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sr"&gt; &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;minutes_label&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sr"&gt;" : 'less than 1 minute'
+    end
+  end
+end
+
+::Middleman::Extensions.register(:reading_time, ReadingTime)
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You can easily customize line #11 to match the average reading speed for your
+readers. &lt;a href="https://en.wikipedia.org/wiki/Words_per_minute"&gt;180 words per minute&lt;/a&gt;
+is a conservative estimate for proofreading on a monitor. The average adult can
+read between 250 to 300 words per minute. Most of my articles are at least a
+little technical, so I decided to stick with 180 wpm.&lt;/p&gt;
+
+&lt;p&gt;Lines #13&amp;ndash;16 calculate the total number of words in the article, and then
+pluralize the label if necessary.&lt;/p&gt;
+
+&lt;p&gt;The last line registers the extension so you can activate it in the &lt;code&gt;config.rb&lt;/code&gt;
+file, like the code below.&lt;/p&gt;
+
+&lt;h2&gt;Activate &amp;amp; use your extension&lt;/h2&gt;
+&lt;div class="highlight ruby"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
+2&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;&lt;span class="nb"&gt;require&lt;/span&gt; &lt;span class="s1"&gt;'reading_time'&lt;/span&gt;
+&lt;span class="n"&gt;activate&lt;/span&gt; &lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;reading_time&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Next, we just need to use the helper in our layout. The estimated reading times
+you can see on
+&lt;a title="Build Better Software, Faster" href="http://torspark.com"&gt;Torspark&amp;rsquo;s home page&lt;/a&gt;
+and in the upper right of this page (assuming I haven&amp;rsquo;t redesigned things&amp;hellip;)
+are generated with the code below.&lt;/p&gt;
+&lt;div class="highlight ruby"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
+2
+3
+4
+5
+6
+7&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;&lt;span class="c1"&gt;# links on source/index.html.haml:&lt;/span&gt;
+&lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;link_to&lt;/span&gt; &lt;span class="s2"&gt;"Read this article in &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;reading_time&lt;/span&gt; &lt;span class="n"&gt;article&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;body&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;article&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Estimated reading time in source/layouts/article.haml:&lt;/span&gt;
+&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="nb"&gt;p&lt;/span&gt;
+  &lt;span class="no"&gt;Read&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;article&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt;
+  &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;reading_time&lt;/span&gt; &lt;span class="n"&gt;current_article&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;body&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Alternative&lt;/h2&gt;
+
+&lt;p&gt;For something this simple, you could just drop lines #10&amp;ndash;17 from the first code
+block above into the helper section of your Middleman &lt;code&gt;config.rb&lt;/code&gt; file. I went
+ahead and built out the full extension, because I&amp;rsquo;m planning to flesh it out a
+little more. The separate file also makes things a little cleaner to manage.&lt;/p&gt;
+
+&lt;h2&gt;Feedback? Questions?&lt;/h2&gt;
+
+&lt;p&gt;That&amp;rsquo;s all there is to writing and using your own custom extension for
+Middleman. I hope it helps you customize your site. I&amp;rsquo;d love to hear about the
+custom extensions you use. &lt;a href="mailto:2kn4ol38"&gt;Drop me a line&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Should I make a gem for you?&lt;/h3&gt;
+
+&lt;p&gt;Also, I&amp;rsquo;d consider building this out a little more and making a gem if you&amp;rsquo;re
+interested. &lt;a href="mailto:2kn4ol38"&gt;Let me know&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Benefits of Weekly Billing for Clients</title>
     <link rel="alternate" href="http://torspark.com/benefits-of-weekly-billing-for-clients/"/>
