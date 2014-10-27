@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Torspark</title>
   <subtitle>Custom Software Development &amp; Consultancy</subtitle>
-  <id>http://torspark.com/</id>
-  <link href="http://torspark.com/"/>
+  <id>http://torspark.com</id>
+  <link href="http://torspark.com"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
   <updated>2014-10-20T21:58:00-05:00</updated>
   <author>
@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://torspark.com/how-to-calculate-article-reading-time-with-a-custom-middleman-extension/"/>
     <id>http://torspark.com/how-to-calculate-article-reading-time-with-a-custom-middleman-extension/</id>
     <published>2014-10-20T21:58:00-05:00</published>
-    <updated>2014-10-23T20:32:35-05:00</updated>
+    <updated>2014-10-27T01:25:32-05:00</updated>
     <author>
       <name>Chris Olds</name>
     </author>
