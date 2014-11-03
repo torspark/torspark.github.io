@@ -5,10 +5,102 @@
   <id>http://torspark.com</id>
   <link href="http://torspark.com"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
-  <updated>2014-10-20T21:58:00-05:00</updated>
+  <updated>2014-11-02T19:27:00-06:00</updated>
   <author>
     <name>Chris Olds</name>
   </author>
+  <entry>
+    <title>How to Update Fork from Original Github Repo</title>
+    <link rel="alternate" href="http://torspark.com/how-to-update-fork-from-original-github-repo/"/>
+    <id>http://torspark.com/how-to-update-fork-from-original-github-repo/</id>
+    <published>2014-11-02T19:27:00-06:00</published>
+    <updated>2014-11-02T19:56:32-06:00</updated>
+    <author>
+      <name>Chris Olds</name>
+    </author>
+    <summary type="html">&lt;p&gt;What do you do when you have a custom fork of a repository, and the original
+version has some new update that you&amp;rsquo;d like to include in your fork without
+losing your customizations? It&amp;rsquo;s a pretty simple process if you just follow the
+steps below.
+</summary>
+    <content type="html">&lt;p&gt;What do you do when you have a custom fork of a repository, and the original
+version has some new update that you&amp;rsquo;d like to include in your fork without
+losing your customizations? It&amp;rsquo;s a pretty simple process if you just follow the
+steps below.
+&lt;/p&gt;
+
+&lt;h2&gt;Add the original repo&lt;/h2&gt;
+
+&lt;p&gt;First, you need to &lt;strong&gt;add the parent repo as a second remote&lt;/strong&gt; for your local
+fork. You could name this remote after the original owner (ex: torspark), but I
+like to name it &amp;ldquo;parent&amp;rdquo; to keep things simple.&lt;/p&gt;
+&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git remote add parent &amp;lt;url-to-parent-repo&amp;gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For example, I recently made a couple customizations to the
+&lt;a href="http://rubygems.org/gems/middleman-spellcheck"&gt;middleman-spellcheck gem&lt;/a&gt;.
+This started as a pull request to fix a bug, but then I added a little extra
+functionality while I was digging into the code.  Anyway, after my pull request
+was accepted, I wanted to update my fork to be based on the current version.
+Here&amp;rsquo;s what I typed into my terminal:&lt;/p&gt;
+&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git remote add parent git@github.com:minivan/middleman-spellcheck.git
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Verify that your remote was added by running:&lt;/p&gt;
+&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git remote
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Fetch the original repo&lt;/h2&gt;
+
+&lt;p&gt;Next, you can &lt;strong&gt;fetch all the changes&lt;/strong&gt; from the original repo by typing:&lt;/p&gt;
+&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git fetch parent
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This will give you a new branch called parent/master. If you&amp;rsquo;re looking for a
+specific branch on the parent repository, the following command with list all
+branches available, including both those from your fork and the parent repo.&lt;/p&gt;
+&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git branch -a
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Merge or Rebase&lt;/h2&gt;
+
+&lt;p&gt;Finally, you just have to either merge or &lt;strong&gt;rebase your branch&lt;/strong&gt; with the parent
+repo. If you prefer to merge, checkout your branch, and merge the branch you
+want from the parent repo.&lt;/p&gt;
+&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
+2&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git checkout master
+git merge parent/master
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Or, if you&amp;rsquo;re a fan of rebasing code, you can run this instead:&lt;/p&gt;
+&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git rebase parent/master
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I was the only one using my fork at the time, so I chose to rebase in order to
+have a cleaner version history.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;That&amp;rsquo;s all there is to it. The features I added have since been pulled into the
+original repo, so you can see that
+&lt;a href="https://github.com/torspark/middleman-spellcheck"&gt;my fork&lt;/a&gt;
+matches the
+&lt;a href="https://github.com/minivan/middleman-spellcheck"&gt;original repo&lt;/a&gt; (as of version
+0.7.5). This process will make it easy for me to continue adding new feature
+branches to my fork while staying current with the original repository as more
+pull requests are accepted.&lt;/p&gt;
+
+&lt;p&gt;What repositories have you contributed to lately? I&amp;rsquo;d love to
+&lt;a href="mailto:2kn4ol38"&gt;hear about it&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>How to Calculate Article Reading Time with a Custom Middleman Extension</title>
     <link rel="alternate" href="http://torspark.com/how-to-calculate-article-reading-time-with-a-custom-middleman-extension/"/>
