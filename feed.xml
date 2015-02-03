@@ -5,10 +5,279 @@
   <id>http://torspark.com</id>
   <link href="http://torspark.com"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
-  <updated>2014-11-02T19:27:00-06:00</updated>
+  <updated>2015-02-02T22:04:00-06:00</updated>
   <author>
     <name>Chris Olds</name>
   </author>
+  <entry>
+    <title>5 A/B Testing Questions (and Answers) You Need to Know</title>
+    <link rel="alternate" href="http://torspark.com/5-a-b-testing-questions-and-answers-you-need-to-know/"/>
+    <id>http://torspark.com/5-a-b-testing-questions-and-answers-you-need-to-know/</id>
+    <published>2015-02-02T22:04:00-06:00</published>
+    <updated>2015-02-03T01:50:09-06:00</updated>
+    <author>
+      <name>Tania Lyerly</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;No Textbook required. Not even a Dictionary.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here at Torspark, we are firm believers in asking lots of questions. With that
+in mind, here are the most common questions about A/B testing.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What is A/B testing?&lt;/li&gt;
+&lt;li&gt;What can A/B testing do for your business...&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;No Textbook required. Not even a Dictionary.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here at Torspark, we are firm believers in asking lots of questions. With that
+in mind, here are the most common questions about A/B testing.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What is A/B testing?&lt;/li&gt;
+&lt;li&gt;What can A/B testing do for your business?&lt;/li&gt;
+&lt;li&gt;How does A/B testing work?&lt;/li&gt;
+&lt;li&gt;How do you pick the winner of an A/B test?&lt;/li&gt;
+&lt;li&gt;How long should you run an A/B test?&lt;/li&gt;
+&lt;li&gt;Bonus Question: What do all of those marketing sales-y speak headlines &lt;em&gt;really&lt;/em&gt;
+mean?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A straightforward bundle of questions to ask, but the &lt;strong&gt;answers are a different
+matter&lt;/strong&gt;. The answers tend to be made more complicated than they should be from a
+combination of technical terms and sales-y marketing speak. This is why we
+decided to answer these questions, minus the dictionary, textbook, or marketing
+translator to understand. Here we go!&lt;/p&gt;
+
+&lt;h2&gt;1. What is A/B testing?&lt;/h2&gt;
+
+&lt;p&gt;A/B testing (or split testing) is when you &lt;strong&gt;test two variations&lt;/strong&gt; of something to
+see &lt;strong&gt;which performs better&lt;/strong&gt;. Usually you test a new version (B) that you think
+could do better against the control version (A). Or if you don’t have a control
+version, you could just start testing both alternatives against each other right
+away.&lt;/p&gt;
+
+&lt;p&gt;You can test more than two variations as well. A three variation split test
+would be known as an A/B/C test. One letter is assigned for each variation, and
+you could continue on with four or more variations in this manner.&lt;/p&gt;
+
+&lt;h2&gt;2. What can A/B testing do for your business?&lt;/h2&gt;
+
+&lt;p&gt;The primary use for A/B testing is to &lt;strong&gt;gather conversion data&lt;/strong&gt;. To understand the
+importance of conversion data, let’s talk about data and sales funnels for a
+second.&lt;/p&gt;
+
+&lt;p&gt;If you have enough data, you can construct the flow of your sales funnel. This
+means determining where your traffic is coming from, how many people are
+clicking through your website, how many people end up &lt;strong&gt;buying your product&lt;/strong&gt; or
+service, and what path they took to get there.&lt;/p&gt;
+
+&lt;p&gt;However, even the best sales funnels leak. Holes in your funnel are &lt;strong&gt;where people
+drop off&lt;/strong&gt; at each stage. By seeing the big picture painted by the data, you can
+figure out where the leaks are. Once you know where the barriers to conversion
+are, you can start to fix them.&lt;/p&gt;
+
+&lt;p&gt;A fix can be anything from better headlines and copy to adding (or removing)
+videos. Sometimes it’s even as simple as changing the color of a button. It
+really just &lt;strong&gt;depends on your customers&lt;/strong&gt; and what they respond to.&lt;/p&gt;
+
+&lt;p&gt;This is where A/B testing comes into play. It is used to test those fixes to
+your leaking sales funnel. By A/B testing the fix, you can determine if your fix
+&lt;strong&gt;actually works&lt;/strong&gt;. Or if your fix made your sales funnel leak some more. Or if it
+didn’t make a difference either way. Some fixes will have a greater improvement
+than others, while sometimes you will need a combination of fixes to see an
+improvement.&lt;/p&gt;
+
+&lt;p&gt;With some trial and error, you can &lt;strong&gt;find the right combination to optimize
+conversions&lt;/strong&gt; and minimize leaks in your sales funnel. The right boost to your
+conversion rate should &lt;strong&gt;increase your revenue&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now you understand the theory for A/B testing, but what does this look like with
+some real numbers? Don&amp;rsquo;t worry, you won&amp;rsquo;t need a calculator.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Scientific Calculator and Stats Book" src="/img/scientific-calculator.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s say you have a business selling some software. Your current conversion
+rate is 10%, and your yearly revenue is $500,000. Your business then conducts
+several A/B tests to optimize conversions in your sales funnel (without changing
+prices). As a result, you were able to increase your total overall conversion
+rate by 3%.&lt;/p&gt;
+
+&lt;p&gt;You new total conversion rate is now 13% (10% original + 3% improvement = 13%).
+That extra 3% increase in your total conversion rate represents an additional
+$15,000 in &lt;strong&gt;yearly revenue&lt;/strong&gt; for your business.&lt;/p&gt;
+
+&lt;p&gt;Not a bad chunk of change for running a few tests. Especially when you consider
+that your business will get this extra $15,000 &lt;em&gt;every year&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;What if your business was able to continue to optimize your conversions
+overtime? So that 3% increase became 5% or 7% as different tests improved
+different aspects of your sales funnel. Those percentages will compound (just
+like compounding interest rates), and revenue will really increase.&lt;/p&gt;
+
+&lt;p&gt;So…&lt;/p&gt;
+
+&lt;h2&gt;3. How does A/B testing work?&lt;/h2&gt;
+
+&lt;p&gt;Let’s say you want to target the number of people signing up for a free demo on
+your website. You are worried you are missing out on conversions because you
+think people &lt;em&gt;aren’t noticing&lt;/em&gt; the bland button that blends into the background.
+You decide to perform an A/B test.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="A/B testing gray button vs orange button" src="/img/ab-test-gray-orange-button.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The original button is version “A” and the new bright orange button is version
+“B”. Half of your traffic to the website will see version “A” and half will see
+version “B”. Some tools will declare the winning version based on the higher
+conversion rate after a set amount of time or visitors. They’ll even
+automatically apply the changes as soon as they pick a winner. This &lt;strong&gt;is not&lt;/strong&gt; how
+you want to declare a test winner.&lt;/p&gt;
+
+&lt;h2&gt;4. How do you pick the winner of an A/B test?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="Excited Kids with Laptop" src="/img/excited-kids.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Declaring a winner sounds simple, but it can get a little tricky because of the
+multiple factors: sample size, statistical significance, and getting an &lt;strong&gt;accurate
+representation of your business traffic&lt;/strong&gt;. (Wait, don’t grab your textbook yet!)&lt;/p&gt;
+
+&lt;p&gt;Statistical significance is when a statistic is deemed reliable. So a test with
+a 95% statistical significance means there is &lt;strong&gt;less than a 5% chance&lt;/strong&gt; that the
+results of the test could be due to &lt;em&gt;random chance&lt;/em&gt;. Remember, the higher the
+statistical significance percentage, the more you can trust in the results of
+your test.&lt;/p&gt;
+
+&lt;p&gt;To achieve a higher level of statistical significance, you will need to increase
+your sample size (the number of people you are testing). You will also need to
+increase your sample size the more variations you test. In all honesty, your
+sample size can &lt;em&gt;never be too big&lt;/em&gt;. This is where time and money become factors,
+which we’ll explore in the next section. But you will need certain minimums to
+achieve statistical significance.&lt;/p&gt;
+
+&lt;p&gt;Sample size and statistical significance alone are &lt;strong&gt;not enough&lt;/strong&gt; to declare a
+winner when making business decisions. Your test should run long enough for your
+sample size to &lt;strong&gt;accurately represent&lt;/strong&gt; your business traffic. These elements
+combined together help you decide how long to run the test for and eventually
+for declaring the winner and &lt;strong&gt;making the right decision&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2&gt;5. How long should you run an A/B test?&lt;/h2&gt;
+
+&lt;p&gt;The very simple statistical answer is once a test has reached statistical
+significance then the test is complete, but that isn’t entirely accurate when
+&lt;strong&gt;trying to make an informed decision&lt;/strong&gt;. It is at best a half answer and very
+misleading at worst. You want to achieve a combination of a high level of
+statistical significance that is indicative of your conversion funnel.&lt;/p&gt;
+
+&lt;p&gt;Consider this&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;What if you get all of the traffic you need for statistical significance in an
+hour? Is that one hour’s worth of traffic truly representative of all your
+business traffic? Maybe yes… maybe no… But the only way you can be certain is to
+let the test continue to run.&lt;/p&gt;
+
+&lt;p&gt;If you declare a winner that is statistically significant but is &lt;strong&gt;not&lt;/strong&gt;
+representative of your business traffic, you could be implementing a change that
+actually hurts your business.&lt;/p&gt;
+
+&lt;p&gt;For example:&lt;/p&gt;
+
+&lt;p&gt;Going back to our version “A” gray button and version “B” orange button, let’s
+say version “A” reaches statistical significance in one hour. If you peek at the
+results early, you may see “A” as being the winner. However, if you let the test
+continue to run, you’d end up with version “B” having a higher conversion rate
+in the longer term with a larger sample size. In this scenario, the traffic in
+the one hour was &lt;strong&gt;not indicative&lt;/strong&gt; of the larger conversion funnel trend where
+version “B” was the true winner. This is why you shouldn&amp;rsquo;t peek at ongoing
+tests.&lt;/p&gt;
+
+&lt;p&gt;This gets us back to the original question of how long to run a test.&lt;/p&gt;
+
+&lt;p&gt;We recommend that A/B tests should be run through &lt;strong&gt;a minimum of two online
+business cycles&lt;/strong&gt;. This helps to minimize the chance of anomalies and false
+positives in the data. In theory, the data that comes from those two business
+cycles should look pretty similar.&lt;/p&gt;
+
+&lt;p&gt;How long is your online business cycle? An online business cycle usually ranges
+from &lt;strong&gt;one to four weeks&lt;/strong&gt;, but will vary from business to business. It depends on
+your consistent activities for &lt;strong&gt;driving traffic&lt;/strong&gt; to your business, but we’ll dive
+into that another time. (If you’d like help figuring out your online business
+cycle, just &lt;a href="mailto:3wojkp7a"&gt;shoot us an email&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;If you make the front page of a major site like &lt;a href="http://techcrunch.com"&gt;Tech
+Crunch&lt;/a&gt;, &lt;a href="http://www.reddit.com"&gt;reddit&lt;/a&gt;, or &lt;a href="https://news.ycombinator.com/"&gt;Hacker
+News&lt;/a&gt; and get an &lt;em&gt;abnormal&lt;/em&gt; spike in traffic during
+one cycle, be cautious when making any decisions. Ask yourself if that traffic
+really represents your usual business. You should consider running the test even
+longer to balance things out.&lt;/p&gt;
+
+&lt;p&gt;And this ladies and gentlemen is how a statistical answer to a business scenario
+can be both correct &lt;em&gt;and&lt;/em&gt; incorrect at the same time.&lt;/p&gt;
+
+&lt;p&gt;Now you have a basic understanding of A/B testing. So let’s spice things up a
+little bit and get fancy!&lt;/p&gt;
+
+&lt;h2&gt;6. Bonus Question: What do all of those marketing sales-y speak headlines &lt;em&gt;really&lt;/em&gt; mean?&lt;/h2&gt;
+
+&lt;p&gt;You think you have a handle on this A/B testing thing and then you come across a
+headline like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3&gt;&amp;ldquo;We’ll &lt;strong&gt;increase your conversions&lt;/strong&gt; by 30%!&amp;rdquo;&lt;/h3&gt;
+
+&lt;p&gt;&lt;cite&gt;Fancy Marketer&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That sounds great. Where do I sign up?&lt;/p&gt;
+
+&lt;p&gt;You have probably seen similar sales-y headlines elsewhere. Maybe you are
+thinking about that 3% increase in conversion rate earlier. The headline says
+30%. Done!&lt;/p&gt;
+
+&lt;p&gt;….&lt;/p&gt;
+
+&lt;p&gt;Wait a second… Take a closer look at that headline.&lt;/p&gt;
+
+&lt;p&gt;It says “increase your conversions &lt;em&gt;by&lt;/em&gt;” a certain percentage.  Why is this one
+word such a big deal?&lt;/p&gt;
+
+&lt;p&gt;Time to break down the sales and marketing speak and understand what those
+numbers &lt;em&gt;truly&lt;/em&gt; mean. Because the numbers &lt;em&gt;sound&lt;/em&gt; great, but they may not mean
+what you think.&lt;/p&gt;
+
+&lt;p&gt;Example:
+Let’s again say you’re selling some software and your current conversion rate is
+10%. We’ll go big with a 30% increase, improvement, or 
+&lt;span data-tooltip aria-haspopup="true" class="has-tip" title="more fancy marketing speak"&gt;lift&lt;/span&gt;
+on that original 10%. This actually means a &lt;em&gt;true&lt;/em&gt; 3% increase to your original
+conversion rate.&lt;/p&gt;
+
+&lt;p&gt;Here’s &lt;strong&gt;how it works&lt;/strong&gt;. The 30% is applied to the 10% conversion rate, NOT the
+total overall conversion rate. 30% of 10% is 3%. (Here’s how the math works
+(.3) * (.1) = .03 or 3%.)&lt;/p&gt;
+
+&lt;p&gt;In layman’s terms, a 30% increase means your old conversion rate of 10% is now
+13%. Huh… that 30% seems a little misleading now, doesn’t it?&lt;/p&gt;
+
+&lt;p&gt;Before you get too disappointed, as discussed before, a 3% increase to your
+total conversion rate can be a huge &lt;strong&gt;boost to your revenue&lt;/strong&gt;. The best part is as
+long as you have the traffic, your testing options to &lt;strong&gt;optimize your sales funnel&lt;/strong&gt;
+are endless! The more leaks you patch and barriers you remove to conversions in
+your sales funnel, the more you will increase your revenue. A/B testing can
+help get you there.&lt;/p&gt;
+
+&lt;p&gt;Note: you also need to remember that a 3% improvement in your conversion rate
+doesn’t help much if you had to cut your prices in half to get it… But, that’s
+for another article.&lt;/p&gt;
+
+&lt;p&gt;Frankly, we love using A/B testing to optimize conversion funnels. Why? Because
+&lt;strong&gt;little changes&lt;/strong&gt; can have &lt;strong&gt;big results&lt;/strong&gt;, big changes can have even bigger results,
+and they all compound together!&lt;/p&gt;
+
+&lt;h3&gt;What’s your next step? What are you going to test? We’d love to &lt;a href="mailto:3wojkp7a"&gt;hear about it&lt;/a&gt;.&lt;/h3&gt;
+
+&lt;p&gt;Have a question about what you just read, a question about something else
+related to A/B testing, or just want to say hello? &lt;a href="mailto:3wojkp7a"&gt;Shoot us an email&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>How to Update Fork from Original Github Repo</title>
     <link rel="alternate" href="http://torspark.com/how-to-update-fork-from-original-github-repo/"/>
