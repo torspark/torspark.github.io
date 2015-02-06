@@ -737,7 +737,7 @@ clients need a little convincing, encourage them to check out the
     <link rel="alternate" href="http://torspark.com/static-site-generators-jekyll-vs-octopress-vs-middleman/"/>
     <id>http://torspark.com/static-site-generators-jekyll-vs-octopress-vs-middleman/</id>
     <published>2014-10-14T22:15:00-05:00</published>
-    <updated>2014-10-28T01:53:56-05:00</updated>
+    <updated>2015-02-06T14:55:48-06:00</updated>
     <author>
       <name>Chris Olds</name>
     </author>
@@ -769,12 +769,15 @@ Plus, Wordpress is just too bloated for my needs.&lt;/p&gt;
 seemed like overkill.&lt;/p&gt;
 
 &lt;p&gt;Static sites are great for ditching databases &amp;amp; conserving server resources.
-They lets you serve content to more people faster &amp;amp; for less money.
+They let you serve content to more people faster &amp;amp; for less money.
 Static site generators have come a long way.
 In fact, they&amp;rsquo;re a pleasure to work with now.
-If I can manage to avoid using a database on a project, I will.&lt;/p&gt;
+If I can manage to avoid using a database on a project, I will. Or I&amp;rsquo;ll build a
+static frontend site and just pull in data via javascript.&lt;/p&gt;
 
 &lt;h2&gt;Jekyll&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="Jekyll Logo" src="/img/jekyll-logo.png" /&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve used Jekyll to build a few client sites before, so I was pretty familiar
 with it.
@@ -791,17 +794,30 @@ I started building out this site in Jekyll for awhile, but never finished it.&lt
 
 &lt;h2&gt;Octopress&lt;/h2&gt;
 
+&lt;p&gt;&lt;img alt="Octopress Logo" src="/img/octopress-logo.png" /&gt;&lt;/p&gt;
+
 &lt;p&gt;Octopress is built on top of Jekyll.
 It&amp;rsquo;s designed to be more opinionated and blog-friendly.&lt;/p&gt;
 
 &lt;p&gt;Octopress gets the job done, but it&amp;rsquo;s docs and development seem to be lacking.
 Essentially a highly customized version of Jekyll, it will always be slower
-to get new Jekyll features.&lt;/p&gt;
+to get new Jekyll features. This also makes upgrading a huge pain.&lt;/p&gt;
 
 &lt;p&gt;I have a partially built Octopress version of this site rotting away somewhere
 on my hard drive too&amp;hellip;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Update: 2/7/15&lt;/strong&gt;
+&lt;br/&gt;
+Ben Mathis over at Octopress &lt;a href="http://octopress.org/2015/01/15/octopress-3.0-is-coming/"&gt;recently
+announced&lt;/a&gt; that he&amp;rsquo;s
+working to overhaul the Octopress ecosystem to bring things more inline with
+the Jekyll framework. This is good news, because it means upgrades will be much
+easier in the future. However, if you&amp;rsquo;re just getting started, I&amp;rsquo;d recommend
+waiting to use Octopress until after version 3.0 is released.&lt;/p&gt;
+
 &lt;h2&gt;Middleman&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="Middleman Logo" src="/img/middleman-logo.png" /&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally, after two false starts, I&amp;rsquo;ve found the perfect static site builder for me.
 Middleman is billed as a &amp;ldquo;static site generator using all the shortcuts and tools
