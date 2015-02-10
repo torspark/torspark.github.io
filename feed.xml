@@ -5,10 +5,205 @@
   <id>http://torspark.com</id>
   <link href="http://torspark.com"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
-  <updated>2015-02-02T22:04:00-06:00</updated>
+  <updated>2015-02-09T22:24:00-06:00</updated>
   <author>
     <name>Chris Olds</name>
   </author>
+  <entry>
+    <title>Why Carousels Destroy your Conversion Rate</title>
+    <link rel="alternate" href="http://torspark.com/why-carousels-destroy-your-conversion-rate/"/>
+    <id>http://torspark.com/why-carousels-destroy-your-conversion-rate/</id>
+    <published>2015-02-09T22:24:00-06:00</published>
+    <updated>2015-02-09T23:48:41-06:00</updated>
+    <author>
+      <name>Tania Lyerly</name>
+    </author>
+    <summary type="html">&lt;p&gt;Slideshows, carousels, and rotating offers. Three names for the same thing:
+conversion killer!  A lot of homepages have carousels. Marketers and clients of
+designers love them because carousels look cool. They let you get a lot more
+information on...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Slideshows, carousels, and rotating offers. Three names for the same thing:
+conversion killer!  A lot of homepages have carousels. Marketers and clients of
+designers love them because carousels look cool. They let you get a lot more
+information on your homepage, and you don’t have to decide which is most
+important. If carousels are so cool and popular, why do &lt;strong&gt;your sales funnel and
+bottom line hate carousels&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;h2&gt;The Key Reasons Why Carousels Kill Your Conversion Rate&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Low user engagement&lt;/li&gt;
+&lt;li&gt;Low click-through rate&lt;/li&gt;
+&lt;li&gt;Positioning overrules great content&lt;/li&gt;
+&lt;li&gt;Usability sucks&lt;/li&gt;
+&lt;li&gt;Banner blindness&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Carousels have low levels of user engagement and click-through rates&lt;/h3&gt;
+
+&lt;p&gt;Yes carousels look pretty, but people don’t engage with them. Don’t believe me?
+Erik Runyon proved it. (He’s the Director of Web Communications at the
+University of Notre Dame. He’s also a web developer.)&lt;/p&gt;
+
+&lt;p&gt;Erik tracked user engagement of carousels on four of Notre Dame’s websites. His
+findings: &lt;strong&gt;1% of visitors clicked on the carousel&lt;/strong&gt;. To put that in
+perspective, if you have 100,000 visitors to your website, only 1,000 will click
+on the carousel. And there’s more!&lt;/p&gt;
+
+&lt;p&gt;Taking a closer look at the features in positions 2-5 in the carousels, they
+range from approximately 3% in position 2 to 2.6% in position 5. &lt;strong&gt;Less than 3%
+of 1% of visitors clicked through a carousel.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="ND.edu Feature Click-through Rates
+graph" src="/img/ndedu-carousel-click-through-rates.png" /&gt;
+&lt;a href="http://erikrunyon.com/2013/07/carousel-interaction-stats/"&gt;image credit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you had 100,000 visitors that 3% of 1% represents ONLY 30 visitors. That’s a
+pretty terrible click-through rate! Instead what matters is the position.&lt;/p&gt;
+
+&lt;h3&gt;Position 1 Has the Highest Conversions, but You May Be Leaving Conversions on the Table&lt;/h3&gt;
+
+&lt;p&gt;Maybe you’re thinking, “What if we rotate what is in the first position? Then we
+don’t have to worry about click-through rates.” From a usability stand-point,
+this is an awful idea (more explanation on that in a bit). Erik tracked this
+too. Here’s what he found (site 4 in red is the auto-rotate).&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Feature Click-through Rates Multiple Sites
+graph" src="/img/ndedu-carousel-click-through-rates-sites.png" /&gt;
+&lt;a href="http://erikrunyon.com/2013/01/carousel-stats/"&gt;image credit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In short, whatever is shown in &lt;strong&gt;position one always has the highest conversion
+rate regardless of the message&lt;/strong&gt;. The reason is position one receives the most
+traffic views and interaction (being first and all that). If the message in
+position one is not your most compelling message, then you are losing out on
+conversions and revenue.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href="/catalyst/"&gt;A/B testing&lt;/a&gt; can help you determine your best message&lt;/strong&gt; so you
+don&amp;rsquo;t leave conversions and money on the table.  Here’s an example of how A/B
+testing could improve your conversion rate (or carousel, though we generally
+recommend not using carousels in the first place):&lt;/p&gt;
+
+&lt;p&gt;Let’s say you sell watches. You have three watches that are the same except for
+color: silver, blue, and black. You decide to have a carousel that shows each of
+the three watches in that order (silver, blue, and black).&lt;/p&gt;
+
+&lt;p&gt;We know from Erik’s study that the silver watch will receive the most traffic
+engagement. It will appear to have the highest conversion rate because of its
+position. However, had you A/B tested each of the watches individually your
+conversion rates change. For the sake of the example, say you found that the
+silver watch had a conversion rate of 10%, the blue 5%, and the black 20%.&lt;/p&gt;
+
+&lt;p&gt;Meaning the black watch, if it was in position 1, would double your conversions.
+Instead, the black watch is barely generating you any conversions hidden away in
+position 3.&lt;/p&gt;
+
+&lt;p&gt;The top of your homepage is prime real estate! You should have one focused
+message that maximizes visitor engagement. (If you aren’t sure on the best
+message, A/B test it.) The last thing you want to do is frustrate your visitors.&lt;/p&gt;
+
+&lt;h3&gt;Carousels Frustrate and Annoy Visitors&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="Guy punching laptop" src="/img/guy-punching-laptop.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Usability for carousels sucks!  And auto-rotating carousels are the worst of the
+worst. Here’s why:&lt;/p&gt;
+
+&lt;p&gt;Some carousels auto-rotate and there is no navigation options for the user.
+Meaning if your visitor sees something they like and misses it, they have to
+wait through the whole slideshow again. Seriously?!? Who wants to do that? I’ll
+tell you who, nobody.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Visitors are less likely to generate a conversion when frustrated or
+annoyed.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, what if your user misses the content that was relevant to them? They may
+not even realize they missed something. The Neilsen Norman Group did a usability
+study on auto-forwarding carousels. They found that the user was given the task:
+&lt;em&gt;“Does Siemens have any special deals on washing machines?”&lt;/em&gt; &lt;strong&gt;The user failed
+the task to find the needed information because the panel auto-rotated&lt;/strong&gt; instead
+of staying still.&lt;/p&gt;
+
+&lt;p&gt;Second, even if you give your visitors navigation controls, everyone reads at
+different speeds. It’s annoying to have content change when you are in the
+middle of reading it. Or you have to wait for it to change.&lt;/p&gt;
+
+&lt;p&gt;As discussed previously, carousels that don’t auto-rotate will depend on
+position strength to generate conversions. This is of course assuming your
+visitors aren’t ignoring your carousel in the first place.&lt;/p&gt;
+
+&lt;h3&gt;Visitors are Ignoring Your Carousel ON PURPOSE!&lt;/h3&gt;
+
+&lt;p&gt;It’s called banner blindness. Consciously or subconsciously visitors are
+ignoring your carousels because they are mistaking them for an advertisement.
+(They look like banners.) Remember Erik Runyon’s research? 99% of visitors were
+NOT interacting with the carousel. Some visitors may have not found the content
+relevant, but a large number were probably just ignoring the carousel.&lt;/p&gt;
+
+&lt;p&gt;Consider this statistic from Solve Media (an advertising consulting company):
+you are 475.28 times more likely to survive a plane crash than you are to click
+on a banner ad. Meaning, if your visitors consciously or subconsciously think
+your carousel is an ad, it is going to get ignored. &lt;strong&gt;Your most important
+content is being ignored because it is in a carousel.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Alternatives to using a Carousel&lt;/h2&gt;
+
+&lt;p&gt;At this point we are in agreement: carousels look cool but kill your conversion
+rate. So what other options do you have?&lt;/p&gt;
+
+&lt;p&gt;Kill the carousel and replace it with &lt;strong&gt;one main, focused message&lt;/strong&gt;. If you
+aren’t sure which your best message is, A/B test it. (&lt;a href="/catalyst/"&gt;We can help you with
+that&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Another option is to &lt;strong&gt;replace the carousel with a user self-identified
+persona&lt;/strong&gt; like vitamintalent.com does.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Sceenshot of vitamintalent.com" src="/img/vitamin-talent-screenshot.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clicking “Hire Talent” vs “Looking for work?” directs the user to the most
+relevant part of the site for them. (Also notice the singular focused message!)&lt;/p&gt;
+
+&lt;p&gt;Depending on your business, &lt;strong&gt;replace the carousel with a video&lt;/strong&gt;. It could be
+demoing a product or a relevant how-to video. Video content is a great addition
+to your site to help improve conversions. As an added bonus, video content will
+help your SEO rankings! Google ranks websites with video content higher than
+those without.&lt;/p&gt;
+
+&lt;p&gt;You could also &lt;strong&gt;replace the carousel with a call-to-action or sign-up form&lt;/strong&gt;.
+No place on your website is more visible than the top of your homepage. It is
+prime real-estate. A strong call-to-action or sign-up form here that resonates
+with your visitors can give your conversion rate a healthy boost.&lt;/p&gt;
+
+&lt;h2&gt;If You Must Use a Carousel…&lt;/h2&gt;
+
+&lt;p&gt;There are times when a carousel is useful. But you should be careful when,
+where, and how they are used. Portfolios, a gallery of photographs, or any
+product that is very visually oriented are perfect examples. (Think about the
+real-estate industry or fashion/jewelry industries.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Carousels should appear below the fold and contain non-vital content.&lt;/strong&gt; You
+should not rely on a carousel as the primary delivery option for your most
+important content. Instead the carousel should complement your homepage content.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make the carousel navigation obvious and 100% user controlled.&lt;/strong&gt; Slower and
+international readers will thank you. In fact all of your visitors will thank
+you for returning the power to them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Use no more than 3-4 slides on your carousel.&lt;/strong&gt; The click-through rate is very
+low at this point. The chances of slides in position four and later being viewed
+are diminutive. (Really, the chances of slides after position one being viewed
+at all are small.)&lt;/p&gt;
+
+&lt;p&gt;In a select few circumstances, a carousel can be a beneficial addition to your
+homepage or website. However, most businesses don’t fall under those
+circumstances. Instead, their carousels are killing their conversions.&lt;/p&gt;
+
+&lt;h2&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;If your site has a carousel, send whoever needs convincing a &lt;a href="/why-carousels-destroy-your-conversion-rate/"&gt;link to this
+page&lt;/a&gt; before that carousel kills
+any more of your conversions.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>5 A/B Testing Questions (and Answers) You Need to Know</title>
     <link rel="alternate" href="http://torspark.com/5-a-b-testing-questions-and-answers-you-need-to-know/"/>
@@ -730,115 +925,6 @@ work and deliver value too&amp;hellip;&lt;/p&gt;
 in the long run if you switch over to billing weekly for your services. If your
 clients need a little convincing, encourage them to check out the
 &lt;a title="Do you trust your developer?" href="/benefits-of-weekly-billing-for-clients/"&gt;benefits of weekly billing for clients&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Static Site Generators: Jekyll vs Octopress vs Middleman</title>
-    <link rel="alternate" href="http://torspark.com/static-site-generators-jekyll-vs-octopress-vs-middleman/"/>
-    <id>http://torspark.com/static-site-generators-jekyll-vs-octopress-vs-middleman/</id>
-    <published>2014-10-14T22:15:00-05:00</published>
-    <updated>2015-02-06T14:55:48-06:00</updated>
-    <author>
-      <name>Chris Olds</name>
-    </author>
-    <summary type="html">&lt;p&gt;So, I finally rebuilt this site last week.
-With so many choices, choosing a framework can be tough.
-After a lot of research, I narrowed it down to &lt;a href="http://jekyllrb.com"&gt;Jekyll&lt;/a&gt;,
-&lt;a href="http://octopress.org"&gt;Octopress&lt;/a&gt;, or &lt;a href="http://middlemanapp.com"&gt;Middleman&lt;/a&gt;.
-Now, I just had to choose&amp;hellip;
-</summary>
-    <content type="html">&lt;p&gt;So, I finally rebuilt this site last week.
-With so many choices, choosing a framework can be tough.
-After a lot of research, I narrowed it down to &lt;a href="http://jekyllrb.com"&gt;Jekyll&lt;/a&gt;,
-&lt;a href="http://octopress.org"&gt;Octopress&lt;/a&gt;, or &lt;a href="http://middlemanapp.com"&gt;Middleman&lt;/a&gt;.
-Now, I just had to choose&amp;hellip;
-&lt;/p&gt;
-
-&lt;h2&gt;Why use a static site generator?&lt;/h2&gt;
-
-&lt;p&gt;Over the years, &lt;a title="Software Consultancy" href="http://torspark.com,"&gt;torspark.com&lt;/a&gt; has
-gone through several variations and false starts.&lt;/p&gt;
-
-&lt;p&gt;It was originally a &lt;a href="http://wordpress.com"&gt;Wordpress&lt;/a&gt; several years ago, but
-that never felt quite right.
-I prefer working in Ruby, so it was never fun digging back into the PHP world
-to customize a plugin or theme.
-Plus, Wordpress is just too bloated for my needs.&lt;/p&gt;
-
-&lt;p&gt;I considered building a full-fledged Rails or Sinatra application, but that
-seemed like overkill.&lt;/p&gt;
-
-&lt;p&gt;Static sites are great for ditching databases &amp;amp; conserving server resources.
-They let you serve content to more people faster &amp;amp; for less money.
-Static site generators have come a long way.
-In fact, they&amp;rsquo;re a pleasure to work with now.
-If I can manage to avoid using a database on a project, I will. Or I&amp;rsquo;ll build a
-static frontend site and just pull in data via javascript.&lt;/p&gt;
-
-&lt;h2&gt;Jekyll&lt;/h2&gt;
-
-&lt;p&gt;&lt;img alt="Jekyll Logo" src="/img/jekyll-logo.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve used Jekyll to build a few client sites before, so I was pretty familiar
-with it.
-Github pages integration is nice, but limited by not being able to use
-custom plugins.
-Of course, you can still build your site locally and then push it up, but you
-could do that with Octopress or Middleman too.&lt;/p&gt;
-
-&lt;p&gt;I work faster with HAML and SASS, and I was able to hack on Jekyll enough to
-let me do so (for the most part), but it never felt very clean.
-I started building out this site in Jekyll for awhile, but never finished it.&lt;/p&gt;
-
-&lt;p&gt;Jekyll is the most popular static site generator, but it just wasn&amp;rsquo;t for me.&lt;/p&gt;
-
-&lt;h2&gt;Octopress&lt;/h2&gt;
-
-&lt;p&gt;&lt;img alt="Octopress Logo" src="/img/octopress-logo.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Octopress is built on top of Jekyll.
-It&amp;rsquo;s designed to be more opinionated and blog-friendly.&lt;/p&gt;
-
-&lt;p&gt;Octopress gets the job done, but it&amp;rsquo;s docs and development seem to be lacking.
-Essentially a highly customized version of Jekyll, it will always be slower
-to get new Jekyll features. This also makes upgrading a huge pain.&lt;/p&gt;
-
-&lt;p&gt;I have a partially built Octopress version of this site rotting away somewhere
-on my hard drive too&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Update: 2/7/15&lt;/strong&gt;
-&lt;br/&gt;
-Ben Mathis over at Octopress &lt;a href="http://octopress.org/2015/01/15/octopress-3.0-is-coming/"&gt;recently
-announced&lt;/a&gt; that he&amp;rsquo;s
-working to overhaul the Octopress ecosystem to bring things more inline with
-the Jekyll framework. This is good news, because it means upgrades will be much
-easier in the future. However, if you&amp;rsquo;re just getting started, I&amp;rsquo;d recommend
-waiting to use Octopress until after version 3.0 is released.&lt;/p&gt;
-
-&lt;h2&gt;Middleman&lt;/h2&gt;
-
-&lt;p&gt;&lt;img alt="Middleman Logo" src="/img/middleman-logo.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, after two false starts, I&amp;rsquo;ve found the perfect static site builder for me.
-Middleman is billed as a &amp;ldquo;static site generator using all the shortcuts and tools
-in modern web development.&amp;rdquo;
-That&amp;rsquo;s true&amp;mdash;Middleman comes with HAML, SASS, &amp;amp; Coffeescript built in.
-Meaning I don&amp;rsquo;t have to waste time hacking on it to speed up my workflow.&lt;/p&gt;
-
-&lt;p&gt;It has a blog plugin to match everything Octopress can do.
-If you&amp;rsquo;re familiar with Rails, it&amp;rsquo;s easy to add helpers and extra functionality
-in a similar fashion.
-The built-in Live Reload feature is awesome.
-I usually set up some form of live-reloading to speed up frontend development
-on my projects, and having it built-in was just icing on the cake.&lt;/p&gt;
-
-&lt;h2&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Jekyll and Octopress are both good choices, but I found that Middleman lets
-me work faster and happier.
-Jekyll is probably the easiest to get started with, but if you know ruby,
-Middleman gives you a lot more power &amp;amp; freedom.
-Any static sites I build in the foreseeable future will be built with Middleman.&lt;/p&gt;
 </content>
   </entry>
 </feed>
