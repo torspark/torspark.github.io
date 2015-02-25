@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://torspark.com/bandit-testing-when-should-you-use-multi-armed-bandit-testing/"/>
     <id>http://torspark.com/bandit-testing-when-should-you-use-multi-armed-bandit-testing/</id>
     <published>2015-02-25T08:24:00-06:00</published>
-    <updated>2015-02-25T13:17:33-06:00</updated>
+    <updated>2015-02-25T13:28:07-06:00</updated>
     <author>
       <name>Tania Lyerly</name>
     </author>
@@ -176,7 +176,7 @@ as well. &lt;/p&gt;
 code. The percentage of traffic that makes up the explorative segment can be
 changed, but it never fully disappears.&lt;/p&gt;
 
-&lt;p&gt;In laymen’s terms, the losers are always getting some traffic, unlike with an
+&lt;p&gt;In layman’s terms, the losers are always getting some traffic, unlike with an
 A/B test where the winning version is eventually implemented. As a result
 &lt;strong&gt;with bandit testing you lose out on a certain amount of conversions in the
 long term&lt;/strong&gt;.&lt;/p&gt;
