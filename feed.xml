@@ -5,16 +5,390 @@
   <id>http://torspark.com</id>
   <link href="http://torspark.com"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
-  <updated>2015-02-25T08:24:00-06:00</updated>
+  <updated>2015-03-23T07:24:00-05:00</updated>
   <author>
     <name>Chris Olds</name>
   </author>
+  <entry>
+    <title>The Hierarchy of Optimization for Websites: The Building Blocks of Conversion Rate Optimization</title>
+    <link rel="alternate" href="http://torspark.com/hierarchy-of-optimization/"/>
+    <id>http://torspark.com/hierarchy-of-optimization/</id>
+    <published>2015-03-23T07:24:00-05:00</published>
+    <updated>2015-03-23T14:39:25-05:00</updated>
+    <author>
+      <name>Tania Lyerly</name>
+    </author>
+    <summary type="html">&lt;p&gt;Many people associate conversion rate optimization with &lt;a href="/ab-testing-crash-course-5-questions-and-answers-you-need-to-know/"&gt;A/B
+testing&lt;/a&gt; or
+other kinds of split testing. Testing is part of CRO, but it is only one facet.&lt;/p&gt;
+
+&lt;p&gt;Wikipedia defines conversion rate optimization as “the method of creating an
+experience for a website...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Many people associate conversion rate optimization with &lt;a href="/ab-testing-crash-course-5-questions-and-answers-you-need-to-know/"&gt;A/B
+testing&lt;/a&gt; or
+other kinds of split testing. Testing is part of CRO, but it is only one facet.&lt;/p&gt;
+
+&lt;p&gt;Wikipedia defines conversion rate optimization as “the method of creating an
+experience for a website or landing page visitor with the goal of increasing
+the percentage of visitors that convert into customers”.&lt;/p&gt;
+
+&lt;p&gt;That’s a great definition. A long one too! Which leaves you thinking- “where do
+I actually start?”&lt;/p&gt;
+
+&lt;p&gt;The obvious answer is your website. That’s where you want to optimize your
+conversions.  But websites have a lot of variation and complexity. This is
+where the Hierarchy of Optimization comes into play.&lt;/p&gt;
+
+&lt;p&gt;The Hierarchy of Optimization is the methodology behind conversion rate
+optimization. It provides a structured, systematic approach to improving the
+performance of your website and your conversions.&lt;/p&gt;
+
+&lt;h2&gt;The Model Behind the Methodology&lt;/h2&gt;
+
+&lt;p&gt;The Hierarchy of Optimization framework is based on 
+&lt;a href='#' data-reveal-id='modalMaslow'&gt;Maslow’s Hierarchy of Needs&lt;/a&gt;
+pyramid model.&lt;/p&gt;
+
+&lt;p&gt;Just like with Maslow’s model, the basic requirements of your website are at
+the bottom, while the more sophisticated requirements are on top. Without the
+lower levels, your website will not function. It’s important to remember&amp;mdash; &lt;strong&gt;if
+your website fails at one level, then the subsequent levels are negatively
+impacted and your conversion rate suffers&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The five levels are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Purpose&lt;/li&gt;
+&lt;li&gt;Accessible&lt;/li&gt;
+&lt;li&gt;Usable&lt;/li&gt;
+&lt;li&gt;Intuitive&lt;/li&gt;
+&lt;li&gt;Persuasive&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you are looking for the foundational building blocks to improve your
+conversions, or you’re launching/redesigning your website, then you are in the
+right place!&lt;/p&gt;
+
+&lt;p&gt;So, let’s go build a pyramid!&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Hierarchy of Optimization Mayan Pyramid" src="/img/hierarchy-of-optimization-mayan-pyramid.jpg" /&gt;&lt;/p&gt;
+
+&lt;h2&gt;1. Purpose&lt;/h2&gt;
+
+&lt;p&gt;Purpose is at the base of your optimization hierarchy pyramid. Without a
+purpose, why even have a website?&lt;/p&gt;
+
+&lt;h3&gt;What purpose is your website supposed to fulfill?&lt;/h3&gt;
+
+&lt;p&gt;What are your website’s unique objectives and needs for your business?&lt;/p&gt;
+
+&lt;p&gt;Are you selling a product or service? Think of websites like Amazon
+(e-commerce), Basecamp (project management service), and Salesforce (CRM
+product).&lt;/p&gt;
+
+&lt;p&gt;Are you giving information or educating your customer base? Chili’s and other
+restaurants have their menus, nutritional information, locations, pictures, and
+other information to interest customers in the restaurant’s food.&lt;/p&gt;
+
+&lt;p&gt;Are you looking for engagement and clicking on ads? Facebook and Youtube both
+try to keep users on their sites as long as possible. The longer users are
+engaged on the site the more likely a user will click on an ad.&lt;/p&gt;
+
+&lt;p&gt;Some websites may fall into more than one category, like Pandora. They are
+engaging their customer base with the music, who also listens to the ads. Or
+customers buy the subscription to listen without ads.&lt;/p&gt;
+
+&lt;p&gt;The purpose of your website should be clearly defined. &lt;strong&gt;Clarity is key!&lt;/strong&gt;
+Everything on your website will stem from this purpose. &lt;strong&gt;If you don’t know
+what you are trying to accomplish with your website, then how can you expect
+your visitors to know?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;2. Accessible&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="Gate - Do Not Enter" src="/img/gate-do-not-enter.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Having a purpose is great, but if your website can’t be accessed then you are
+up a creek without a paddle.&lt;/p&gt;
+
+&lt;p&gt;Does your website work?&lt;/p&gt;
+
+&lt;p&gt;Do all of the features on your website work?&lt;/p&gt;
+
+&lt;p&gt;Are their functions executable?&lt;/p&gt;
+
+&lt;p&gt;An example is a shopping cart feature. Is each step of the sales process
+executable? This starts with finding or accessing the product on your website.
+Then adding the product to the shopping cart. Lastly, checking out and paying
+for the product.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If your website’s primary purpose is unable to be fulfilled because something
+doesn’t work, a user can’t access your website, or find your product, then
+nothing else matters.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;Website accessibility problems&lt;/h3&gt;
+
+&lt;h5&gt;Error 404: page not found&lt;/h5&gt;
+
+&lt;p&gt;The “Error 404: page not found” is the error that you receive when you have a
+broken link, a changed link, or a link that doesn’t actually exist for some
+reason. (A common reason for a link that doesn’t exist is a typo in the URL.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The standard 404 error is actually just code that the gets spit out by the
+server. It’s plain text that a user cannot interact with or be redirected
+from.&lt;/strong&gt; Basically, this is as inaccessible as it gets.&lt;/p&gt;
+
+&lt;p&gt;If you change a link, it’s best to set up a 301 redirect (more on that in a
+little bit). If you delete a page or link, a custom error 404 page can be a fun
+way to help get your user back on track. You can also give suggestions on where
+your user might like to go, or just have fun with it!&lt;/p&gt;
+
+&lt;p&gt;If you are a Star Wars fan like me, than you’ll love Github’s custom error 404
+page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Github 404 page" src="/img/github-404.jpg" /&gt;&lt;/p&gt;
+
+&lt;h5&gt;301 redirect&lt;/h5&gt;
+
+&lt;p&gt;If you change the URL for your page or website, you need to set up a 301
+redirect. This tells the search engines (and anyone linking to your old URL)
+that your page has permanently changed to a new name or location. &lt;strong&gt;301
+redirects are especially important for SEO! They transfer a majority of your
+SEO juice (90&amp;ndash;99%) from the old URL page to the new one.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, your SEO ranking may take a slight hit. However, this is much better than
+starting with zero SEO juice.&lt;/p&gt;
+
+&lt;h3&gt;Product Accessibility on Your Website&lt;/h3&gt;
+
+&lt;p&gt;Is your product accessible to your customer base? If a potential customer is
+looking for your product or service, how easy is it for them to find it on your
+website? Additionally, how easy is it for the customer to move through your
+sales funnel to complete the sale?&lt;/p&gt;
+
+&lt;p&gt;Make your shopping cart easy to find and use. According to Listrak’s 2014
+Annual Study of Email Tactics used by the top 1000 Internet Retailers, “74% of
+online sales are abandoned before the customer completes the traction”.&lt;/p&gt;
+
+&lt;p&gt;Think about that for a second…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 out of 4 online sales are not completed.&lt;/strong&gt; How much lost revenue does that
+represent for your company? Make your products easy to find and easy to
+purchase.&lt;/p&gt;
+
+&lt;p&gt;Don’t hide your sales cart, let it stand out. If customers need to contact you
+directly to make a purchase, make sure your contact information is easily
+visible on EVERY page of your site.&lt;/p&gt;
+
+&lt;h2&gt;The Lower Levels Versus the Upper Levels&lt;/h2&gt;
+
+&lt;p&gt;Thus far we have covered the two fundamental layers of the pyramid: purpose and
+accessibility. Like Maslow’s Hierarchy of Needs, the two lowest layers are the
+most basic but most crucial in our Hierarchy of Optimization.&lt;/p&gt;
+
+&lt;p&gt;Without these lower levels, nothing else matters. However, your users won’t
+realize this. They only see your website when it’s accessible. It’s only the
+three upper levels that your users truly interact with.&lt;/p&gt;
+
+&lt;p&gt;So, let’s keep climbing.&lt;/p&gt;
+
+&lt;h2&gt;3. Usable&lt;/h2&gt;
+
+&lt;p&gt;Is your website usable?&lt;/p&gt;
+
+&lt;p&gt;Maybe you are thinking&amp;mdash; “Wait a minute. My website works. It’s accessible. Of
+course it’s usable!”&lt;/p&gt;
+
+&lt;p&gt;Not so fast. Contrary to popular belief, just because something is functional
+does not mean it is usable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Thick Drink with Straw" src="/img/thick-drink-with-straw.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you ever tried to drink a thick milkshake out of a small straw? You aren’t
+going to get much of that milkshake any time soon. That straw is functional,
+but it’s not very usable.&lt;/p&gt;
+
+&lt;p&gt;How long does it take for your website to load?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Your website is too easy to use. It’s too fast and too clear to understand.”
+&amp;mdash; Said no one EVER!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;UX design (user experience design) is your BEST friend when it comes to
+designing your website. You want your navigation to be user-friendly. This
+starts to overlap with being intuitive (more on that later).&lt;/p&gt;
+
+&lt;p&gt;What about mobile responsive design?&lt;/p&gt;
+
+&lt;p&gt;Is your website designed to work on multiple devices? &lt;strong&gt;Nothing scares off
+customers faster than an unusable site.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Part of being user-friendly is being click-friendly. Here are some of the tools
+that we recommend for helping to become more user and click-friendly:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Crazyegg for heatmaps and click maps of your website. Helps you understand
+and see where your visitors are looking and clicking.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Usertesting.com for real users telling you what they think about using your
+website &lt;em&gt;while&lt;/em&gt; they use it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Squiggle" src="/img/squiggle.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The shortest distance between two points is a straight line. Usability of your
+website should be like a straight line, not a squiggle&amp;hellip; Or any other shape
+for that matter.&lt;/p&gt;
+
+&lt;p&gt;Your visitors should spend their time experiencing whatever the purpose of your
+website is. &lt;strong&gt;Visitors should NOT be spending their time trying to figure out
+how to use your website.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;4. Intuitive&lt;/h2&gt;
+
+&lt;p&gt;Intuitive and usable strongly go hand-in-hand with each other.&lt;/p&gt;
+
+&lt;p&gt;Can visitors find what they are looking for when they come to your website?&lt;/p&gt;
+
+&lt;p&gt;Yes? Great! &amp;hellip; Is it where they expected to find it?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Your website should feel natural to use. Everything should be where visitors
+expect it to be.&lt;/strong&gt; Is the contact information where they expect it? What about
+navigating around your website?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;There should be a flow to the content and pages on your website.&lt;/strong&gt; It should
+be obvious to your visitors where to go and what you want them to do.&lt;/p&gt;
+
+&lt;p&gt;In terms of the buying process, you want to make it as smooth as possible for
+your visitors. Most customers do some kind of research before making a
+purchase. &lt;strong&gt;Make product reviews, return policies, and the answers to FAQs easy
+to find.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Consider having a portfolio if you sell services like custom printing,
+photography, or website design. Could you imagine hiring a photographer without
+seeing any of their work?&lt;/p&gt;
+
+&lt;p&gt;Just this week I saw a website for a company doing web design with no
+portfolio. They wanted $1,500 for their web design service. I don’t know about
+you, but I’m not inclined to buy from them. If you don’t want to put your
+portfolio online, at least tell your visitors that you have samples upon
+request.&lt;/p&gt;
+
+&lt;p&gt;A demo video showing a product’s benefits and how to use it can also be a great
+addition.&lt;/p&gt;
+
+&lt;h3&gt;People buy from people and companies they trust!&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Consider what kind of objections a visitor might have to buying or
+converting.&lt;/strong&gt; Your website should address these objections, &lt;em&gt;and&lt;/em&gt; do it with as
+little usability friction as possible. &lt;strong&gt;Don’t play hide-and-seek with the
+answers!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Addressing questions and concerns up front builds trust and confidence in your
+company. This in turn will lead to more conversions and sales.&lt;/p&gt;
+
+&lt;p&gt;All of this starts to move us into the final step on our pyramid.&lt;/p&gt;
+
+&lt;h2&gt;5. Persuasive&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="Snowcapped Mountain" src="/img/snowcapped-mountain.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The top of the mountain is only the top because it has a whole mountain under
+it. At the same time, you can only get to the top of the mountain by climbing
+the rest of it. (I guess you could cheat and fly up there, but that’s besides
+the point.)&lt;/p&gt;
+
+&lt;p&gt;Persuasive is the hardest step of the pyramid to get to and to execute. (It’s
+all about being on top.) Persuasive also has the greatest impact on your sales
+funnel with your visitors. BUT it only counts if you have every layer of the
+pyramid before that!&lt;/p&gt;
+
+&lt;p&gt;You could have the most persuasive copy on your website, but if your website
+isn’t  accessible or usable… Welp, you’re out of luck!&lt;/p&gt;
+
+&lt;p&gt;Users may not recognize how easy and intuitive your site is, that’s kind of the
+point. If your website is not easy to use, then visitors will &lt;em&gt;really&lt;/em&gt; notice
+and won’t stick around for long.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Persuasive is where you bring your branding, marketing, and content strategies into play.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each part of your website should have a singular goal that contributes to your
+website’s overall purpose. Branding, messaging, and content should all focus on
+achieving the singular goals and overarching purpose. Additionally, &lt;strong&gt;any
+&lt;a href="/ab-testing-crash-course-5-questions-and-answers-you-need-to-know/"&gt;A/B&lt;/a&gt; or
+split testing should have a singular goal that aims to improve your purpose.&lt;/strong&gt;
+This clarity will make your website more persuasive to your visitors.&lt;/p&gt;
+
+&lt;p&gt;Going back to intuitive, know the objections or barriers your visitors have
+that stop them from buying. If you know these objections, you can
+systematically address them in your branding, messaging, and website copy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DO NOT tell your customers what you &lt;em&gt;think&lt;/em&gt; they want to hear.&lt;/strong&gt; Your
+messaging and copy should convey the answers your customers need to hear.
+&lt;strong&gt;Talk to your customers, not at them.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you aren’t sure what these objections are, ask them! User polls and surveys
+are great ways to get real feedback from your customer base. Also, look at your
+competitors. What are they doing that works that you aren’t?&lt;/p&gt;
+
+&lt;p&gt;However, don’t copy your competitors. &lt;strong&gt;Take what your competitors do well, and
+then make it better.&lt;/strong&gt; Be innovative, and think outside of the box. With
+technology at their fingertips, users are the smartest they have ever been.
+&lt;strong&gt;If you don’t provide the answer or solution to their problem, they will go
+else where.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If the user doesn’t know they have a problem, educate them. &lt;strong&gt;People tend to
+trust people and companies that give them valuable information.&lt;/strong&gt; (Is it
+working yet?) As a result, &lt;strong&gt;when users are ready to buy, they will go back to
+the people who provided answers and value.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Wrap-Up&lt;/h2&gt;
+
+&lt;p&gt;Conversion rate optimization is not just about doing one thing or about one
+piece. There isn’t a silver bullet. CRO is about how all of the different
+pieces come together.The whole is greater than the sum of its parts.&lt;/p&gt;
+
+&lt;p&gt;However, knowing where to start with all of the different pieces can be
+overwhelming. This is why we have a methodology to serve as a guide on how to
+approach conversion rate optimization.&lt;/p&gt;
+
+&lt;p&gt;As you noticed, many of the layers of the pyramid overlapped into each out.
+Each layer of the pyramid, is just that - a layer. Take out one layer, and at
+best you have a smaller pyramid. At worst your whole pyramid falls apart. Only
+when you put all of the layers together properly do you get a pyramid.&lt;/p&gt;
+
+&lt;p&gt;Each website will be unique, given the needs of the business. Regardless of
+this, you can apply the Hierarchy of Optimization to help improve the
+performance of your website and your conversions.&lt;/p&gt;
+
+&lt;p&gt;Questions about CRO or the Hierarchy of Optimization? Want help with your &lt;a href="/consulting/"&gt;UX
+design&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="mailto:3wojkp7a"&gt;Send me an email&lt;/a&gt; and let’s talk!&lt;/p&gt;
+
+&lt;p&gt;Or still not quite sure where to spend your time and resources?&lt;/p&gt;
+
+&lt;p&gt;Check out our &lt;a href="/cro-critique/"&gt;CRO Critique&lt;/a&gt;. It’s a CRO critique of your
+website that is customized to &lt;em&gt;your&lt;/em&gt; business and website’s purpose.&lt;/p&gt;
+
+&lt;div id='modalMaslow' class='reveal-modal' data-reveal&gt;
+  &lt;h2&gt;Maslow&amp;rsquo;s Hierarchy of Needs&lt;/h2&gt;
+  &lt;p&gt;
+    In Maslow’s Hierarchy of Needs, the most fundamental needs for human motivation
+    are at the bottom. Only once these basic needs are satisfied can someone
+    fulfill higher order psychological needs. (Food, water, shelter, and safety
+    trump belonging, esteem, and self-actualization. But combine all of the levels
+    together and you have a happy, motivated individual.)
+  &lt;/p&gt;
+  &lt;a class='close-reveal-modal'&gt;&amp;#215;&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Bandit Testing: When Should You Use Multi-Armed Bandit Testing</title>
     <link rel="alternate" href="http://torspark.com/bandit-testing-when-should-you-use-multi-armed-bandit-testing/"/>
     <id>http://torspark.com/bandit-testing-when-should-you-use-multi-armed-bandit-testing/</id>
     <published>2015-02-25T08:24:00-06:00</published>
-    <updated>2015-02-25T13:28:07-06:00</updated>
+    <updated>2015-03-23T13:56:20-05:00</updated>
     <author>
       <name>Tania Lyerly</name>
     </author>
@@ -987,92 +1361,6 @@ custom extensions you use. &lt;a href="mailto:3wojkp7a"&gt;Drop me a line&lt;/a&
 
 &lt;p&gt;Also, I&amp;rsquo;d consider building this out a little more and making a gem if you&amp;rsquo;re
 interested. &lt;a href="mailto:3wojkp7a"&gt;Let me know&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Benefits of Weekly Billing for Clients</title>
-    <link rel="alternate" href="http://torspark.com/benefits-of-weekly-billing-for-clients/"/>
-    <id>http://torspark.com/benefits-of-weekly-billing-for-clients/</id>
-    <published>2014-10-17T18:02:00-05:00</published>
-    <updated>2014-10-28T01:32:32-05:00</updated>
-    <author>
-      <name>Chris Olds</name>
-    </author>
-    <summary type="html">&lt;p&gt;Do you really want to pay 50% up front for your project, before you&amp;rsquo;ve even had
-a chance to build a rapport with your developer? Is it a pain to get upper
-management to approve that big down payment? Or are you having trouble tracking
-&amp;amp; budgeting for various hourly invoices? You&amp;rsquo;re a good client, of course, but do
-you want your consultant wasting his time trying to collect fees from other less
-reputable clients?
-</summary>
-    <content type="html">&lt;p&gt;Do you really want to pay 50% up front for your project, before you&amp;rsquo;ve even had
-a chance to build a rapport with your developer? Is it a pain to get upper
-management to approve that big down payment? Or are you having trouble tracking
-&amp;amp; budgeting for various hourly invoices? You&amp;rsquo;re a good client, of course, but do
-you want your consultant wasting his time trying to collect fees from other less
-reputable clients?
-&lt;/p&gt;
-
-&lt;p&gt;Maybe the developer you hired turned out to be a hack. Or your dev just doesn&amp;rsquo;t
-seem to have enough time for you. Or they don&amp;rsquo;t communicate with you as much as
-you&amp;rsquo;d like. Whatever the reason, now you&amp;rsquo;re wondering how you can salvage some
-of that hefty down payment or if you just have to try to make the most of the
-situation. It may seem a little scary at first, but up front weekly billing can
-help you avoid these situations. See the benefits below, or read about
-&lt;a title="Charging weekly will make you happier" href="/advantages-of-weekly-billing-for-developers/"&gt;weekly billing from a developer&amp;rsquo;s perspective&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2&gt;Why you should want to be charged weekly as a client&lt;/h2&gt;
-
-&lt;h3&gt;Easy on your budget&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Weekly payments are easy to budget.&lt;/strong&gt; You know exactly how much you&amp;rsquo;ll need to
-pay each week. A lot of managers can even just use their discretionary fund to
-pay for development, rather than having to get a 50% down payment approved by
-upper management. If you&amp;rsquo;re a small business, you can easily make payments with
-your credit card, and not worry about a large upfront payment putting your
-business at risk by becoming cash poor.&lt;/p&gt;
-
-&lt;h3&gt;Limit your risk&lt;/h3&gt;
-
-&lt;p&gt;By paying weekly, you can &lt;strong&gt;limit the risk&lt;/strong&gt; of getting stuck with a bad
-developer. If you aren&amp;rsquo;t satisfied with the past week&amp;rsquo;s worth of work, you are
-free to stop paying and find a new developer. No need to feel like you&amp;rsquo;re
-committed to a slow developer. No need to worry about how to get the most out of
-your down payment or even trying to recoup some of it in court. At worst, you&amp;rsquo;re
-out just a week&amp;rsquo;s worth of money, and that&amp;rsquo;s it.&lt;/p&gt;
-
-&lt;h3&gt;Know your developer is focused on your project&lt;/h3&gt;
-
-&lt;p&gt;By paying your developer for a week&amp;rsquo;s worth of work in advance, you can be
-secure in the knowledge that &lt;strong&gt;your developer is focused on your project&lt;/strong&gt;. You
-don&amp;rsquo;t really want them working on your project for a couple hours here and there
-among the other projects on their plate. That just slows the development down
-and decreases the quality, because of all the context switching they&amp;rsquo;re going
-through, bouncing from project to project.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ll also get the added benefit of having a &lt;strong&gt;faster and more motivated
-developer&lt;/strong&gt;. If you&amp;rsquo;re paying hourly invoices, the slower your dev works, the
-more money they&amp;rsquo;ll receive. Is that right? Your developer should be an expert
-professional. If they know you trust them to provide value, they&amp;rsquo;ll be
-encouraged to work as efficiently as possible, because procrastinating won&amp;rsquo;t
-make them any more money. There&amp;rsquo;s also the push to deliver value &lt;em&gt;every single
-week&lt;/em&gt;, because they know you could choose to just end the engagement at any
-time.&lt;/p&gt;
-
-&lt;h3&gt;Why waste your time arguing over what&amp;rsquo;s in scope&lt;/h3&gt;
-
-&lt;p&gt;Paying weekly means you don&amp;rsquo;t have to constantly check the original scope
-document to see if you can request this or that little change. Let&amp;rsquo;s face it,
-that scope document is usually out of date &lt;em&gt;within a week&lt;/em&gt; of signing it. You
-won&amp;rsquo;t have to waste time on addendums to the original contract, because you can
-just as for the change, knowing that you&amp;rsquo;ve already paid for this week&amp;rsquo;s work.&lt;/p&gt;
-
-&lt;h2&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Now, weekly billing doesn&amp;rsquo;t sound so scary does it? If you give it a chance, I
-bet you&amp;rsquo;ll even prefer it. If your developer isn&amp;rsquo;t charging weekly, maybe you
-should ask them why not? You could send them a link to the
-&lt;a title="The best way to charge as a consultant" href="/advantages-of-weekly-billing-for-developers/"&gt;advantages of weekly billing for consultants&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
