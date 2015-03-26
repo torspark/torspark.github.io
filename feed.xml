@@ -14,17 +14,17 @@
     <link rel="alternate" href="http://torspark.com/hierarchy-of-optimization/"/>
     <id>http://torspark.com/hierarchy-of-optimization/</id>
     <published>2015-03-23T07:24:00-05:00</published>
-    <updated>2015-03-23T14:39:25-05:00</updated>
+    <updated>2015-03-26T00:43:48-05:00</updated>
     <author>
       <name>Tania Lyerly</name>
     </author>
-    <summary type="html">&lt;p&gt;Many people associate conversion rate optimization with &lt;a href="/ab-testing-crash-course-5-questions-and-answers-you-need-to-know/"&gt;A/B
+    <summary type="html">&lt;p&gt;Many people associate conversion rate optimization (CRO) with &lt;a href="/ab-testing-crash-course-5-questions-and-answers-you-need-to-know/"&gt;A/B
 testing&lt;/a&gt; or
 other kinds of split testing. Testing is part of CRO, but it is only one facet.&lt;/p&gt;
 
 &lt;p&gt;Wikipedia defines conversion rate optimization as “the method of creating an
-experience for a website...&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Many people associate conversion rate optimization with &lt;a href="/ab-testing-crash-course-5-questions-and-answers-you-need-to-know/"&gt;A/B
+experience for...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Many people associate conversion rate optimization (CRO) with &lt;a href="/ab-testing-crash-course-5-questions-and-answers-you-need-to-know/"&gt;A/B
 testing&lt;/a&gt; or
 other kinds of split testing. Testing is part of CRO, but it is only one facet.&lt;/p&gt;
 
@@ -133,7 +133,7 @@ nothing else matters.&lt;/strong&gt;&lt;/p&gt;
 broken link, a changed link, or a link that doesn’t actually exist for some
 reason. (A common reason for a link that doesn’t exist is a typo in the URL.)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The standard 404 error is actually just code that the gets spit out by the
+&lt;p&gt;&lt;strong&gt;The standard 404 error is actually just code that gets spit out by the
 server. It’s plain text that a user cannot interact with or be redirected
 from.&lt;/strong&gt; Basically, this is as inaccessible as it gets.&lt;/p&gt;
 
@@ -334,7 +334,7 @@ competitors. What are they doing that works that you aren’t?&lt;/p&gt;
 then make it better.&lt;/strong&gt; Be innovative, and think outside of the box. With
 technology at their fingertips, users are the smartest they have ever been.
 &lt;strong&gt;If you don’t provide the answer or solution to their problem, they will go
-else where.&lt;/strong&gt;&lt;/p&gt;
+elsewhere.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;If the user doesn’t know they have a problem, educate them. &lt;strong&gt;People tend to
 trust people and companies that give them valuable information.&lt;/strong&gt; (Is it
@@ -351,7 +351,7 @@ pieces come together.The whole is greater than the sum of its parts.&lt;/p&gt;
 overwhelming. This is why we have a methodology to serve as a guide on how to
 approach conversion rate optimization.&lt;/p&gt;
 
-&lt;p&gt;As you noticed, many of the layers of the pyramid overlapped into each out.
+&lt;p&gt;As you noticed, many of the layers of the pyramid overlapped into each other.
 Each layer of the pyramid, is just that - a layer. Take out one layer, and at
 best you have a smaller pyramid. At worst your whole pyramid falls apart. Only
 when you put all of the layers together properly do you get a pyramid.&lt;/p&gt;
@@ -388,22 +388,22 @@ website that is customized to &lt;em&gt;your&lt;/em&gt; business and website’s
     <link rel="alternate" href="http://torspark.com/bandit-testing-when-should-you-use-multi-armed-bandit-testing/"/>
     <id>http://torspark.com/bandit-testing-when-should-you-use-multi-armed-bandit-testing/</id>
     <published>2015-02-25T08:24:00-06:00</published>
-    <updated>2015-03-23T13:56:20-05:00</updated>
+    <updated>2015-03-25T00:53:59-05:00</updated>
     <author>
       <name>Tania Lyerly</name>
     </author>
     <summary type="html">&lt;p&gt;Split testing. When you hear the term split testing, most people assume it is
 referring to A/B testing. And typically you would be correct. However,
-technically A/B testing is a type of split testing. &lt;/p&gt;
+technically A/B testing is a type of split testing.&lt;/p&gt;
 
 &lt;p&gt;Bandit testing is another type of split testing...&lt;/p&gt;</summary>
     <content type="html">&lt;p&gt;Split testing. When you hear the term split testing, most people assume it is
 referring to A/B testing. And typically you would be correct. However,
-technically A/B testing is a type of split testing. &lt;/p&gt;
+technically A/B testing is a type of split testing.&lt;/p&gt;
 
 &lt;p&gt;Bandit testing is another type of split testing. If you’ve been doing research
 into conversion rate optimization, split testing, or A/B testing, then you have
-probably come across bandit testing. &lt;/p&gt;
+probably come across bandit testing.&lt;/p&gt;
 
 &lt;p&gt;More technically known as multi-armed bandit testing, it is an alternative
 approach to split testing compared to A/B split testing. Just because bandit
@@ -428,22 +428,22 @@ from a gambling scenario. A gambler is in front of a row of slot machines (aka
 one armed bandits, hence the name). The gambler knows that each machine has its
 own algorithm of rewards. Some machines payout better than others. The trick is
 to figure out which machines offer the better rate of return and maximize it.
-The gambler will have &lt;strong&gt;two phases: explorative and exploitative&lt;/strong&gt;. &lt;/p&gt;
+The gambler will have &lt;strong&gt;two phases: explorative and exploitative&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;During the explorative phase the gambler will put coins into all of the
 machines equally to test which gives the higher returns (aka conversions). Then
 during the exploitative phase, the gambler starts to put more coins (traffic)
-in the machines that have the higher rewards. &lt;/p&gt;
+in the machines that have the higher rewards.&lt;/p&gt;
 
 &lt;h3&gt;How bandit testing works with your website&lt;/h3&gt;
 
 &lt;p&gt;Instead of three slot machines, we have three versions of your website (A, B,
 and C). &lt;strong&gt;Our explorative and exploitative phases run indefinitely&lt;/strong&gt; (or until
-we end the test). &lt;/p&gt;
+we end the test).&lt;/p&gt;
 
 &lt;p&gt;For example, we can set the explorative level at 10% and the exploitative level
 at 90%. (This ratio can be changed as desired). Let’s use 10,000 visitors for
-an easy number. &lt;/p&gt;
+an easy number.&lt;/p&gt;
 
 &lt;p&gt;This means 10% of traffic (1,000 visitors) will “explore” the variations.
 Traffic is evenly distributed across all three options. The other 90% of
@@ -456,12 +456,12 @@ the higher conversion rates. The 90% exploits the results from the 10%.&lt;/p&gt
 article&lt;/a&gt;,
 traffic during an A/B test is split evenly between the different variations. In
 our A/B/C example above, our split test would direct 33% of traffic to each
-version. &lt;/p&gt;
+version.&lt;/p&gt;
 
 &lt;p&gt;With A/B testing, versions that aren’t performing as well continue to receive
 the same amount of traffic as the versions with a higher conversion rate. In a
 bandit test, the versions with the higher conversion rates receive a higher
-proportion of traffic. &lt;/p&gt;
+proportion of traffic.&lt;/p&gt;
 
 &lt;h2&gt;3. What are the benefits of multi-armed bandit testing?&lt;/h2&gt;
 
@@ -480,12 +480,12 @@ future because there isn’t a future after the limited window of the sale.&lt;/
 
 &lt;h4&gt;If you are very risk averse when it comes to testing, this could be the test for you.&lt;/h4&gt;
 
-&lt;p&gt;Honestly, I debated whether to list this as a benefit or not. Here’s why: &lt;/p&gt;
+&lt;p&gt;Honestly, I debated whether to list this as a benefit or not. Here’s why:&lt;/p&gt;
 
 &lt;p&gt;If you are very risk averse, you probably aren’t doing any kind of serious
 testing. Even the best hypothesis must get tested eventually to prove its
 worth. It could fail, or it could sky-rocket your conversions. You just don’t
-know until you test it. &lt;/p&gt;
+know until you test it.&lt;/p&gt;
 
 &lt;p&gt;However, with bandit testing you get to be greedy. Traffic gets pushed to the
 higher performing variations. This means you are maximizing your conversions.
@@ -497,7 +497,7 @@ higher performing variations. This means you are maximizing your conversions.
 &lt;h3&gt;Why doesn’t everyone use bandit testing instead of A/B testing?&lt;/h3&gt;
 
 &lt;p&gt;This is a great question. Bandit testing has its select benefits, but it has
-many disadvantages. &lt;/p&gt;
+many disadvantages.&lt;/p&gt;
 
 &lt;h2&gt;4. What are the disadvantages to multi-armed bandit testing?&lt;/h2&gt;
 
@@ -510,7 +510,7 @@ run your next test. Think of it like this:&lt;/p&gt;
 
 &lt;p&gt;You test version B against your current version (A). Version B wins. Then you
 test version C against B (the new original). Version B wins again. Next, you
-test version D. Version D beats version B. Version D becomes the new standard. &lt;/p&gt;
+test version D. Version D beats version B. Version D becomes the new standard.&lt;/p&gt;
 
 &lt;p&gt;This is an example of the ongoing testing you should be conducting. The more
 versions you test at once, the longer the test will take to determine a winner.
@@ -526,10 +526,10 @@ continuously improving. Instead, you are stuck in a rut and money is left on
 the table.&lt;/p&gt;
 
 &lt;p&gt;Bandit tests are better used as a strategy in a specific setting rather than as
-a test in the traditional A/B testing sense. Here’s why: &lt;/p&gt;
+a test in the traditional A/B testing sense. Here’s why:&lt;/p&gt;
 
 &lt;p&gt;A bandit test can run indefinitely. It will run until the code is deleted, or
-until the end of the world as we know it. Whichever happens first. &lt;/p&gt;
+until the end of the world as we know it. Whichever happens first.&lt;/p&gt;
 
 &lt;p&gt;This is great if you want to run a test forever. It is not so great if you want
 to choose and implement a winning version. Which brings me to my next several
@@ -539,12 +539,12 @@ points.&lt;/p&gt;
 
 &lt;p&gt;Used in the right situation, a bandit test can be a great tool in your testing
 tool belt. However, the use of bandit testing should generally be the exception
-rather than the rule. &lt;/p&gt;
+rather than the rule.&lt;/p&gt;
 
 &lt;p&gt;In the short term, your conversions are maximized. Most traffic is pushed to
 the best performing version. In the long term, some percentage of traffic is
 always directed towards all versions. This includes the versions not performing
-as well. &lt;/p&gt;
+as well.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The exploration phase never stops during a bandit test.&lt;/strong&gt; It&amp;rsquo;s part of the
 code. The percentage of traffic that makes up the explorative segment can be
@@ -582,7 +582,7 @@ were the results:&lt;/p&gt;
 &lt;p&gt;As you can see, the highest conversion rate happened with the bandit test that
 had the highest exploitation. However, it took &lt;strong&gt;almost 6 times as much traffic
 to declare significance&lt;/strong&gt;. This goes back to what I said above about short term
-gains. &lt;/p&gt;
+gains.&lt;/p&gt;
 
 &lt;p&gt;During the test, you optimize your conversions. But, none of the tests beat out
 the 20% conversion rate of C. If you want to maximize your conversion rate long
@@ -592,7 +592,7 @@ it. In this case, version C.&lt;/p&gt;
 &lt;p&gt;VWO ran a different simulation to test statistical significance when the
 conversion rates were minimally different (10% vs 11%). The simulations were
 run 25 times with 10,000 iterations.Their findings did not bode well for bandit
-tests. &lt;/p&gt;
+tests.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="number of times no statistical significance was seen" src="/img/vwo-bandit-vs-ab-2.png" /&gt;&lt;/p&gt;
 
@@ -626,16 +626,16 @@ conversion rates.&lt;/p&gt;
 
 &lt;p&gt;During an A/B test, users are sorted to see the different versions or
 variations via a cookie. They will always see the same version until a new (or
-winning) version is implemented. This is not the case with bandit testing. &lt;/p&gt;
+winning) version is implemented. This is not the case with bandit testing.&lt;/p&gt;
 
 &lt;p&gt;Traffic and users are directed to the version with the highest conversion rate.
 A user could see version A during an exploration phase. Then during the
-exploitation phase that same user could see version B. &lt;/p&gt;
+exploitation phase that same user could see version B.&lt;/p&gt;
 
 &lt;p&gt;If there is a shift in the conversion rate, or a change in the
 exploration/exploitation levels, the user could be directed back to version A.
 Or even to version C, if there is one. Basically, this makes for a confusing
-user experience. &lt;/p&gt;
+user experience.&lt;/p&gt;
 
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 
@@ -643,7 +643,7 @@ user experience. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Multi-armed bandit tests are a great strategy to use when you want to
 maximize conversions in a short time frame.&lt;/strong&gt; Main example of this is for
-sales. &lt;/p&gt;
+sales.&lt;/p&gt;
 
 &lt;p&gt;Generally, bandit tests should not be used as an ongoing strategy for your
 website. &lt;strong&gt;A/B tests are the best testing strategy to efficiently make site
@@ -652,7 +652,7 @@ color should the button be- green or red.)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Regardless of whether you are running a multi-armed bandit test or an A/B
 test, use good testing practices.&lt;/strong&gt; This means knowing the conditions for
-stopping the test: length of time and statistical significance level. &lt;/p&gt;
+stopping the test: length of time and statistical significance level.&lt;/p&gt;
 
 &lt;p&gt;Some testing software automatically sets a test length for 7 days and 95%
 statistical significance. This does not mean those are the right conditions for
@@ -660,7 +660,7 @@ your test.&lt;/p&gt;
 
 &lt;p&gt;Now that you’re armed with the knowledge of when to use multi-armed bandit
 tests, feel free to implement it into your site. Just make sure you’re using it
-for the right reasons. &lt;/p&gt;
+for the right reasons.&lt;/p&gt;
 
 &lt;p&gt;If you’d like some help setting up a custom bandit solution, check out our
 &lt;a href="/consulting/"&gt;consulting options&lt;/a&gt;.&lt;/p&gt;
