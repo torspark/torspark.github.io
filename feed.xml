@@ -5,10 +5,118 @@
   <id>http://torspark.com</id>
   <link href="http://torspark.com"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
-  <updated>2015-03-23T07:24:00-05:00</updated>
+  <updated>2015-04-05T11:24:00-05:00</updated>
   <author>
     <name>Chris Olds</name>
   </author>
+  <entry>
+    <title>Google Announcement: Mobile-Friendly Websites Receive Better Search Rankings</title>
+    <link rel="alternate" href="http://torspark.com/google-announcement-mobile-friendly/"/>
+    <id>http://torspark.com/google-announcement-mobile-friendly/</id>
+    <published>2015-04-05T11:24:00-05:00</published>
+    <updated>2015-04-05T23:51:44-05:00</updated>
+    <author>
+      <name>Tania Lyerly</name>
+    </author>
+    <summary type="html">&lt;p&gt;Is your website designed to be mobile-friendly? If it’s not, you have until
+April 21st to make some changes. Starting April 21, 2015,
+&lt;a href="http://googlewebmastercentral.blogspot.com/2015/02/finding-more-mobile-friendly-search.html"&gt;Google&lt;/a&gt;
+is rewarding those websites that are mobile-friendly with better search
+rankings.
+</summary>
+    <content type="html">&lt;p&gt;Is your website designed to be mobile-friendly? If it’s not, you have until
+April 21st to make some changes. Starting April 21, 2015,
+&lt;a href="http://googlewebmastercentral.blogspot.com/2015/02/finding-more-mobile-friendly-search.html"&gt;Google&lt;/a&gt;
+is rewarding those websites that are mobile-friendly with better search
+rankings.
+&lt;/p&gt;
+
+&lt;h2&gt;How do you know if your website is mobile-friendly?&lt;/h2&gt;
+
+&lt;p&gt;Google has a &lt;a href="https://www.google.com/webmasters/tools/mobile-friendly/"&gt;webmaster
+tool&lt;/a&gt; that you can use
+to check if your website is mobile-friendly. Just put in your site’s URL and
+wait 20-30 seconds while it analyzes your website.&lt;/p&gt;
+
+&lt;h3&gt;If your website is mobile-friendly, you’ll get something that looks a little like this:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="torspark googlebot mobile view" src="/img/torspark-googlebot-mobile-view.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations! Your website passed Google’s mobile-friendly test!&lt;/p&gt;
+
+&lt;p&gt;Today, many websites are built with mobile in mind. However, &lt;strong&gt;mobile-friendly
+does not mean your site is user-friendly&lt;/strong&gt;. The best sites will be a combination
+of mobile-optimized and responsive design.&lt;/p&gt;
+
+&lt;h3&gt;If your website is not mobile-friendly, then Google will show you something like this:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="idc global googlebot mobile view" src="/img/idc-global-googlebot-mobile-view.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The bad news is if your website is not mobile-friendly there isn’t necessarily a
+one stop, fix-all solution. How to fix your website primarily depends on how
+your website was built, who built it, and who has access to make changes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remember to backup your site &lt;em&gt;before&lt;/em&gt; starting to make any changes!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;How was your website built?&lt;/h2&gt;
+
+&lt;p&gt;Was your website built using a content management system (CMS)? (Examples of
+popular CMSs include WordPress, Joomla, Drupal, and Magento.)&lt;/p&gt;
+
+&lt;p&gt;If your website was builting using a CMS, check out Google’s list of &lt;a href="https://developers.google.com/webmasters/mobile-sites/website-software/?hl=en-US#how-do-i-make-my-site-mobile-friendly"&gt;technical
+guides&lt;/a&gt;
+on various CMSs to making your website mobile friendly. &lt;strong&gt;If you haven’t
+installed updates for the theme or templates on your website, that may be all
+you need.&lt;/strong&gt; Other problems could be related to the plugins that are installed.&lt;/p&gt;
+
+&lt;p&gt;OR&lt;/p&gt;
+
+&lt;p&gt;Was your website custom built with a programming language? (A few common
+languages used for building websites include Ruby, Python, JavaScript, PHP,
+Java, and Perl.)&lt;/p&gt;
+
+&lt;p&gt;If this is the case, then Google’s &lt;a href="https://developers.google.com/webmasters/mobile-sites/mobile-seo/?hl=en-US"&gt;guide on mobile
+SEO&lt;/a&gt;
+could be helpful to figuring out and solving the problem.&lt;/p&gt;
+
+&lt;h2&gt;Who built your website, and who has access to make changes?&lt;/h2&gt;
+
+&lt;p&gt;Some people build or code their own sites, while others outsource it to a
+developer. If you built it yourself, check out the above links. For those of you
+working with a developer, Google’s webmaster tools has some &lt;a href="https://developers.google.com/webmasters/mobile-sites/get-started/hire-developer?hl=en-US"&gt;helpful
+advice&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even if you had a developer build your website on a CMS (like WordPress),
+installing updates may be the quick fix you can do yourself. If this is not
+something you are comfortable doing, or it doesn’t fix the problem, then talk to
+your developer. If your developer can’t or doesn’t know how to fix the problem,
+you should find a new developer.&lt;/p&gt;
+
+&lt;p&gt;Once your website is deemed mobile-friendly by Google, your site will be given a
+mobile-friendly label. You won’t see this label if you perform a search for your
+site on a desktop. This label only appears when searches are performed on a
+mobile device.&lt;/p&gt;
+
+&lt;p&gt;It looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="mobile-screen-capture-torspark" src="/img/torspark-mobile-friendly-seo.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;A mobile-unfriendly website will not completely doom your search rankings. Many
+factors go into search rankings, however mobile friendliness does represent a
+larger trend.&lt;/p&gt;
+
+&lt;p&gt;Mobile-based searches are only going to continue to increase. Traffic will flock
+to those websites that are mobile-friendly or mobile-optimized over those that
+are not. Less traffic and higher bounce rates from poor usability over time will
+hurt your rankings.&lt;/p&gt;
+
+&lt;p&gt;While a lot of factors go into into search rankings, don’t let
+mobile-friendliness be a factor that counts against you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Was this article helpful?&lt;/strong&gt; I’ll write just about anything and everything related
+to CRO. So, if you’d like to see a topic covered, just let me know!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>The Hierarchy of Optimization for Websites: The Building Blocks of Conversion Rate Optimization</title>
     <link rel="alternate" href="http://torspark.com/hierarchy-of-optimization/"/>
@@ -1231,136 +1339,6 @@ pull requests are accepted.&lt;/p&gt;
 
 &lt;p&gt;What repositories have you contributed to lately? I&amp;rsquo;d love to
 &lt;a href="mailto:3wojkp7a"&gt;hear about it&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How to Calculate Article Reading Time with a Custom Middleman Extension</title>
-    <link rel="alternate" href="http://torspark.com/how-to-calculate-article-reading-time-with-a-custom-middleman-extension/"/>
-    <id>http://torspark.com/how-to-calculate-article-reading-time-with-a-custom-middleman-extension/</id>
-    <published>2014-10-20T21:58:00-05:00</published>
-    <updated>2015-01-22T23:09:10-06:00</updated>
-    <author>
-      <name>Chris Olds</name>
-    </author>
-    <summary type="html">&lt;p&gt;This is a quick how-to guide on implementing an estimated reading time feature
-for your &lt;a href="http://middlemanapp.com"&gt;Middleman&lt;/a&gt; blog with a custom Middleman
-extension.
-</summary>
-    <content type="html">&lt;p&gt;This is a quick how-to guide on implementing an estimated reading time feature
-for your &lt;a href="http://middlemanapp.com"&gt;Middleman&lt;/a&gt; blog with a custom Middleman
-extension.
-&lt;/p&gt;
-
-&lt;h2&gt;Write the custom extension&lt;/h2&gt;
-
-&lt;p&gt;You can just drop the code below into the main directory for your Middleman
-project. Mine is under &lt;code&gt;torspark.com/reading_time.rb&lt;/code&gt;. Note that this is above
-the &lt;code&gt;/source&lt;/code&gt; directory where most of your work will go in a Middleman project.
-You could also put it in a top level &lt;code&gt;/extensions&lt;/code&gt; directory alongside the
-&lt;code&gt;/source&lt;/code&gt; &amp;amp; &lt;code&gt;/build&lt;/code&gt; directories if you plan to write a lot of custom
-extensions. I don&amp;rsquo;t have a need for this yet, so I just left it as an individual
-file.&lt;/p&gt;
-&lt;div class="highlight ruby"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;&lt;span class="c1"&gt;# Outputs the reading time&lt;/span&gt;
-&lt;span class="c1"&gt;# ex: Read this in "about 3 minutes"&lt;/span&gt;
-
-&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;ReadingTime&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="no"&gt;Middleman&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Extension&lt;/span&gt;
-  &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;initialize&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;app&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;options_hash&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="k"&gt;super&lt;/span&gt;
-  &lt;span class="k"&gt;end&lt;/span&gt;
-
-  &lt;span class="n"&gt;helpers&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
-    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;reading_time&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;input&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-      &lt;span class="n"&gt;words_per_minute&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;180&lt;/span&gt;
-
-      &lt;span class="n"&gt;words&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;input&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;split&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;size&lt;/span&gt;
-      &lt;span class="n"&gt;minutes&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;words&lt;/span&gt;&lt;span class="sr"&gt;/&lt;/span&gt;/&lt;span class="sr"&gt;words_per_minute).floor
-      minutes_label = minutes === 1 ? ' minute' : ' minutes'
-      minutes &amp;gt; 0 ? "about &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;minutes&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sr"&gt; &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;minutes_label&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="sr"&gt;" : 'less than 1 minute'
-    end
-  end
-end
-
-::Middleman::Extensions.register(:reading_time, ReadingTime)
-&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;p&gt;You can easily customize line #11 to match the average reading speed for your
-readers. &lt;a href="https://en.wikipedia.org/wiki/Words_per_minute"&gt;180 words per minute&lt;/a&gt;
-is a conservative estimate for proofreading on a monitor. The average adult can
-read between 250 to 300 words per minute. Most of my articles are at least a
-little technical, so I decided to stick with 180 wpm.&lt;/p&gt;
-
-&lt;p&gt;Lines #13&amp;ndash;16 calculate the total number of words in the article, and then
-pluralize the label if necessary.&lt;/p&gt;
-
-&lt;p&gt;The last line registers the extension so you can activate it in the &lt;code&gt;config.rb&lt;/code&gt;
-file, like the code below.&lt;/p&gt;
-
-&lt;h2&gt;Activate &amp;amp; use your extension&lt;/h2&gt;
-&lt;div class="highlight ruby"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
-2&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;&lt;span class="nb"&gt;require&lt;/span&gt; &lt;span class="s1"&gt;'reading_time'&lt;/span&gt;
-&lt;span class="n"&gt;activate&lt;/span&gt; &lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;reading_time&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Next, we just need to use the helper in our layout. The estimated reading times
-you can see on
-&lt;a title="Build Better Software, Faster" href="http://torspark.com"&gt;Torspark&amp;rsquo;s home page&lt;/a&gt;
-and in the upper right of this page (assuming I haven&amp;rsquo;t redesigned things&amp;hellip;)
-are generated with the code below.&lt;/p&gt;
-&lt;div class="highlight ruby"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
-2
-3
-4
-5
-6
-7&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;&lt;span class="c1"&gt;# links on source/index.html.haml:&lt;/span&gt;
-&lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;link_to&lt;/span&gt; &lt;span class="s2"&gt;"Read this article in &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;reading_time&lt;/span&gt; &lt;span class="n"&gt;article&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;body&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;article&lt;/span&gt;
-
-&lt;span class="c1"&gt;# Estimated reading time in source/layouts/article.haml:&lt;/span&gt;
-&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="nb"&gt;p&lt;/span&gt;
-  &lt;span class="no"&gt;Read&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;article&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt;
-  &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;reading_time&lt;/span&gt; &lt;span class="n"&gt;current_article&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;body&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;Alternative&lt;/h2&gt;
-
-&lt;p&gt;For something this simple, you could just drop lines #10&amp;ndash;17 from the first code
-block above into the helper section of your Middleman &lt;code&gt;config.rb&lt;/code&gt; file. I went
-ahead and built out the full extension, because I&amp;rsquo;m planning to flesh it out a
-little more. The separate file also makes things a little cleaner to manage.&lt;/p&gt;
-
-&lt;h2&gt;Feedback? Questions?&lt;/h2&gt;
-
-&lt;p&gt;That&amp;rsquo;s all there is to writing and using your own custom extension for
-Middleman. I hope it helps you customize your site. I&amp;rsquo;d love to hear about the
-custom extensions you use. &lt;a href="mailto:3wojkp7a"&gt;Drop me a line&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Should I make a gem for you?&lt;/h3&gt;
-
-&lt;p&gt;Also, I&amp;rsquo;d consider building this out a little more and making a gem if you&amp;rsquo;re
-interested. &lt;a href="mailto:3wojkp7a"&gt;Let me know&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
