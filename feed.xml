@@ -5,27 +5,239 @@
   <id>http://torspark.com</id>
   <link href="http://torspark.com"/>
   <link href="http://torspark.com/feed.xml" rel="self"/>
-  <updated>2015-04-05T11:24:00-05:00</updated>
+  <updated>2015-04-17T11:58:00-05:00</updated>
   <author>
     <name>Chris Olds</name>
   </author>
+  <entry>
+    <title>Mobile-Friendly vs Mobile-Optimization vs Responsive Design for Websites</title>
+    <link rel="alternate" href="http://torspark.com/mobile-friendly-vs-mobile-optimized-vs-responsive-design/"/>
+    <id>http://torspark.com/mobile-friendly-vs-mobile-optimized-vs-responsive-design/</id>
+    <published>2015-04-17T11:58:00-05:00</published>
+    <updated>2015-05-11T16:26:29-05:00</updated>
+    <author>
+      <name>Tania Lyerly</name>
+    </author>
+    <summary type="html">&lt;p&gt;I get a lot of questions about the differences between mobile-friendly vs
+mobile-optimization vs responsive design for websites. These questions include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is a mobile-friendly website?&lt;/li&gt;
+&lt;li&gt;What is mobile-optimization?&lt;/li&gt;
+&lt;li&gt;What is responsive design?&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    <content type="html">&lt;p&gt;I get a lot of questions about the differences between mobile-friendly vs
+mobile-optimization vs responsive design for websites. These questions include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is a mobile-friendly website?&lt;/li&gt;
+&lt;li&gt;What is mobile-optimization?&lt;/li&gt;
+&lt;li&gt;What is responsive design?&lt;/li&gt;
+&lt;li&gt;What are the differences of all of the above?&lt;/li&gt;
+&lt;li&gt;Where does mobile first design fit in?&lt;/li&gt;
+&lt;li&gt;What is the best design strategy for my website?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My goal is to answer all of these questions, plus a few more along the way. (If
+you’d like a deeper explanation, or have other questions you’d like answered,
+just &lt;a href="mailto:%203wojkp7a"&gt;shoot me an email!&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;For clarity’s sake, when I say mobile or mobile device, I am referring to
+devices that are the approximate size and shape of most smartphones (mobile
+phones).&lt;/p&gt;
+
+&lt;p&gt;Ok, let’s hop to it!&lt;/p&gt;
+
+&lt;h2&gt;Mobile-Friendly Websites&lt;/h2&gt;
+
+&lt;p&gt;Google’s search rankings now emphasize and &lt;a href="/google-announcement-mobile-friendly/"&gt;reward mobile-friendly
+websites&lt;/a&gt;. Many people may think that
+having a mobile-friendly website is good enough, and for Google’s robots it is!
+But this is not necessarily good enough for the visitors coming to your
+website. In short, &lt;strong&gt;mobile-friendly is the bare minimum&lt;/strong&gt; mobile design
+strategy you should have for your mobile visitors.&lt;/p&gt;
+
+&lt;p&gt;If you aren’t sure if your website is mobile-friendly, then check-out Google’s
+&lt;a href="https://www.google.com/webmasters/tools/mobile-friendly/"&gt;webmaster tool&lt;/a&gt;. A
+mobile-friendly website is often just a slimmed down version of the website
+viewed on a desktop.&lt;/p&gt;
+
+&lt;p&gt;For example, as a general rule your content should be written in at least 14 or
+16 pt font. It seems big, but when it gets shrunk down anything less will be
+hard to read. Hard to read ≠ mobile-friendly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mobile-friendly websites will work for mobile users, but these websites were
+designed for the desktop users.&lt;/strong&gt; A smaller version of your desktop website can
+be functional but may not be as user friendly as it could be&amp;hellip; And this is
+where mobile-optimization starts to enter the fray.&lt;/p&gt;
+
+&lt;h2&gt;Mobile-Optimized Websites&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="using mobile device" src="/img/mobile-use.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;All mobile-optimized websites are mobile-friendly, but not all mobile-friendly
+websites are mobile-optimized. Mobile-optimization targets mobile users; these
+websites are designed for smaller screens.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A mobile-optimized website will reformat itself for mobile users&lt;/strong&gt;. It is not
+just a shrunken down version of the desktop website.&lt;/p&gt;
+
+&lt;p&gt;Design features of a mobile-optimized website can include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Single column layout&lt;/li&gt;
+&lt;li&gt;Easy, simple navigation that is “thumb friendly”&lt;/li&gt;
+&lt;li&gt;Large graphics with white-space borders for those of us with large or clumsy fingers&lt;/li&gt;
+&lt;li&gt;Formatted content for maximum readability&lt;/li&gt;
+&lt;li&gt;Limited to no need for typing&lt;/li&gt;
+&lt;li&gt;Image file sizes are smaller for the mobile version of the website than those used for the desktop version of the website. (This allows for quicker load times.)&lt;/li&gt;
+&lt;li&gt;A fewer number of features overall (minimalist, uncluttered design)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Mobile users are much more likely to be searching for a quick answer&lt;/strong&gt;
+compared to their desktop search counterparts. (I tend to search for
+restaurants, movie reviews, and directions on my phone. I am not doing in-depth
+searches on my phone on technical topics like mobile-optimized design. I save
+those types of searches for my laptop.)&lt;/p&gt;
+
+&lt;p&gt;The goal of a mobile-optimized website is to &lt;strong&gt;make the website as
+frictionless as possible for the mobile user&lt;/strong&gt;. Mobile users are seeking the
+quickest, most efficient way to answer their questions. Mobile-optimization
+aims to do exactly that.&lt;/p&gt;
+
+&lt;h2&gt;Websites Created with Responsive Design&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="tablet sitting on laptop" src="/img/tablet.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Responsively designed websites do exactly as phrase suggest. They “respond” to
+the screen size of the device being used. In a sense, responsive design picks
+up where mobile-optimization leaves off.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Responsive design reformats and restructures websites for &lt;em&gt;any&lt;/em&gt;
+device&amp;mdash;regardless of screen size.&lt;/strong&gt; Mobile-optimization only does this for
+mobile devices. With responsive design, the layout of the website will scale
+from the smaller screens of mobile, tablets, and small laptops, to the standard
+desktop screen and even larger widescreen monitors.&lt;/p&gt;
+
+&lt;p&gt;Responsive design offers flexibility and great usability on all devices for
+users. It’s really the only way to guarantee that your website will look good
+and have optimized usability on any device.&lt;/p&gt;
+
+&lt;p&gt;If you are curious, Torspark is a responsively designed website. (Try looking
+at the &lt;a href="/"&gt;homepage&lt;/a&gt;, or any other part of our website on different devices.
+When you do, you’ll see a different, scaled version for each device type. Or,
+just resize your browser and see how everything balances out on the page.)&lt;/p&gt;
+
+&lt;h3&gt;Mobile-First Design Strategy&lt;/h3&gt;
+
+&lt;p&gt;Mobile-first is a design strategy in which &lt;strong&gt;the mobile version of the website
+is designed first over the traditional desktop version&lt;/strong&gt;. This design strategy
+can also apply to products designed for and marketed to mobile users first,
+ahead of “traditional” internet users.&lt;/p&gt;
+
+&lt;p&gt;A lot of design issues come from trying to stuff too many features into a
+single page. When designing with mobile-first in mind, you tend to get a
+simpler, cleaner design structure. This works well as a base, because it’s
+easier to add relevant features into the desktop view as needed, rather than
+trying to stuff every bell and whistle into a mobile view.&lt;/p&gt;
+
+&lt;p&gt;2014 was &lt;a href="http://www.emarketer.com/Article/Mobile-Will-Account-72-of-US-Digital-Ad-Spend-by-2019/1012258"&gt;the breakout year for mobile
+usage&lt;/a&gt;&amp;mdash;the
+first year mobile use surpassed daily desktop use. (Adults spent on average 2
+hours and 51 minutes on mobile devices daily, but only 2 hours and 12 minutes
+daily on desktops.) &lt;strong&gt;Mobile first and responsive design strategies are
+becoming more in demand as the trend of increased mobile use continues.&lt;/strong&gt; If
+you aren’t sure about jumping into the deep end of responsive design, a mobile
+first design strategy can be the first step as part of a larger responsive
+design strategy.&lt;/p&gt;
+
+&lt;h2&gt;What type of design is best for my business and my website?&lt;/h2&gt;
+
+&lt;p&gt;The not very helpful answer is “it depends”. Honestly, the answer depends on
+the answers to the following questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the purpose of your website?&lt;/li&gt;
+&lt;li&gt;What do you want your website to do for visitors?&lt;/li&gt;
+&lt;li&gt;What devices are you expecting your visitors to be accessing your site from?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="airport arrival and baggage claim sign" src="/img/airport-arrival.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Websites are meant to take visitors on a digital journey. That journey is
+supposed to be as smooth and frictionless as possible. &lt;strong&gt;The easier you can
+make navigating your website, the more likely you are to &lt;a href="/catalyst/"&gt;increase
+conversions&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, what is the budget for your website? Mobile-optimized and responsively
+designed websites are often a little more expensive than mobile-friendly
+websites. Why? In short, they take longer to develop and build.&lt;/p&gt;
+
+&lt;p&gt;In the long run, the &lt;strong&gt;extra optimization to functionality and usability
+offered by a responsively designed or mobile-optimized site will provide you
+with a higher ROI&lt;/strong&gt; than a site that is just mobile-friendly. Now, whether or
+not the expense is justified will have to be evaluated on a
+business-by-business basis.&lt;/p&gt;
+
+&lt;p&gt;On a side note, have you tried to use your business’s website as if you were a
+customer? What about as a mobile user? Do you know what your mobile site looks
+like? If you are drawing a blank, or have a panicky uncertain feeling right
+now, that’s probably not a good indicator.&lt;/p&gt;
+
+&lt;h3&gt;Consider The Following for Mobile-Friendly vs Mobile-Optimized vs Responsive Design&lt;/h3&gt;
+
+&lt;p&gt;Is your main customer base cruising your website on a desktop? Then maybe a
+mobile-friendly website is good enough for you. Google doesn’t penalize you in
+the search rankings, and you don’t spend extra money on a mobile-optimized or
+responsively designed website.&lt;/p&gt;
+
+&lt;h5&gt;On the other hand&amp;hellip;&lt;/h5&gt;
+
+&lt;p&gt;Do you have any kind of e-commerce, blogs, or a customer base that actively
+uses mobile devices? If this is the case, then you may want to invest in a
+mobile-optimized or responsively designed website.&lt;/p&gt;
+
+&lt;h3&gt;Mobile-Optimized and Responsively Designed Websites Can Offer a Creative User Experience&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="taking picture of a building with a mobile device" src="/img/mobile-picture-taking.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just because visitors are viewing your website on a smaller screen, doesn’t
+mean your site has to be boring. &lt;strong&gt;Remember mobile users have the ability to
+take pictures and videos, make phone calls, use GPS for finding things near
+their location, and so much more!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;And this is the beauty of stepping beyond &lt;em&gt;just&lt;/em&gt; a mobile-friendly website.
+There are so many new and different user interface options for visitors NOT
+using a desktop. Some businesses even have completely different website
+versions for desktop users versus mobile users.&lt;/p&gt;
+
+&lt;p&gt;Think about your visitors. What type of experience do you want them to have
+using your website? Optimize your website for that experience!  Given the
+possibilities with the internet, saying the sky’s the limit seems almost
+diminutive.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Google Announcement: Mobile-Friendly Websites Receive Better Search Rankings</title>
     <link rel="alternate" href="http://torspark.com/google-announcement-mobile-friendly/"/>
     <id>http://torspark.com/google-announcement-mobile-friendly/</id>
     <published>2015-04-05T11:24:00-05:00</published>
-    <updated>2015-04-06T00:15:47-05:00</updated>
+    <updated>2015-05-11T16:33:47-05:00</updated>
     <author>
       <name>Tania Lyerly</name>
     </author>
-    <summary type="html">&lt;p&gt;Is your website designed to be mobile-friendly? If it’s not, you have until
-April 21st to make some changes. Starting April 21, 2015,
+    <summary type="html">&lt;p&gt;Is your website designed to be
+&lt;a href="/mobile-friendly-vs-mobile-optimized-vs-responsive-design/"&gt;mobile-friendly&lt;/a&gt;?
+If it’s not, you have until April 21st to make some changes. Starting April 21,
+2015,
 &lt;a href="http://googlewebmastercentral.blogspot.com/2015/02/finding-more-mobile-friendly-search.html"&gt;Google&lt;/a&gt;
 is rewarding those websites that are mobile-friendly with better search
 rankings.
 </summary>
-    <content type="html">&lt;p&gt;Is your website designed to be mobile-friendly? If it’s not, you have until
-April 21st to make some changes. Starting April 21, 2015,
+    <content type="html">&lt;p&gt;Is your website designed to be
+&lt;a href="/mobile-friendly-vs-mobile-optimized-vs-responsive-design/"&gt;mobile-friendly&lt;/a&gt;?
+If it’s not, you have until April 21st to make some changes. Starting April 21,
+2015,
 &lt;a href="http://googlewebmastercentral.blogspot.com/2015/02/finding-more-mobile-friendly-search.html"&gt;Google&lt;/a&gt;
 is rewarding those websites that are mobile-friendly with better search
 rankings.
@@ -1244,98 +1456,6 @@ and they all compound together!&lt;/p&gt;
 
 &lt;p&gt;Have a question about what you just read, a question about something else
 related to A/B testing, or just want to say hello? &lt;a href="mailto:3wojkp7a"&gt;Shoot us an email&lt;/a&gt;!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How to Update Fork from Original Github Repo</title>
-    <link rel="alternate" href="http://torspark.com/how-to-update-fork-from-original-github-repo/"/>
-    <id>http://torspark.com/how-to-update-fork-from-original-github-repo/</id>
-    <published>2014-11-02T19:27:00-06:00</published>
-    <updated>2015-01-22T23:07:06-06:00</updated>
-    <author>
-      <name>Chris Olds</name>
-    </author>
-    <summary type="html">&lt;p&gt;What do you do when you have a custom fork of a repository, and the original
-version has some new update that you&amp;rsquo;d like to include in your fork without
-losing your customizations? It&amp;rsquo;s a pretty simple process if you just follow the
-steps below.
-</summary>
-    <content type="html">&lt;p&gt;What do you do when you have a custom fork of a repository, and the original
-version has some new update that you&amp;rsquo;d like to include in your fork without
-losing your customizations? It&amp;rsquo;s a pretty simple process if you just follow the
-steps below.
-&lt;/p&gt;
-
-&lt;h2&gt;Add the original repo&lt;/h2&gt;
-
-&lt;p&gt;First, you need to &lt;strong&gt;add the parent repo as a second remote&lt;/strong&gt; for your local
-fork. You could name this remote after the original owner (ex: torspark), but I
-like to name it &amp;ldquo;parent&amp;rdquo; to keep things simple.&lt;/p&gt;
-&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git remote add parent &amp;lt;url-to-parent-repo&amp;gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;p&gt;For example, I recently made a couple customizations to the
-&lt;a href="http://rubygems.org/gems/middleman-spellcheck"&gt;middleman-spellcheck gem&lt;/a&gt;.
-This started as a pull request to fix a bug, but then I added a little extra
-functionality while I was digging into the code.  Anyway, after my pull request
-was accepted, I wanted to update my fork to be based on the current version.
-Here&amp;rsquo;s what I typed into my terminal:&lt;/p&gt;
-&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git remote add parent git@github.com:minivan/middleman-spellcheck.git
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Verify that your remote was added by running:&lt;/p&gt;
-&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git remote
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;Fetch the original repo&lt;/h2&gt;
-
-&lt;p&gt;Next, you can &lt;strong&gt;fetch all the changes&lt;/strong&gt; from the original repo by typing:&lt;/p&gt;
-&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git fetch parent
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This will give you a new branch called parent/master. If you&amp;rsquo;re looking for a
-specific branch on the parent repository, the following command with list all
-branches available, including both those from your fork and the parent repo.&lt;/p&gt;
-&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git branch -a
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;Merge or Rebase&lt;/h2&gt;
-
-&lt;p&gt;Finally, you just have to either merge or &lt;strong&gt;rebase your branch&lt;/strong&gt; with the parent
-repo. If you prefer to merge, checkout your branch, and merge the branch you
-want from the parent repo.&lt;/p&gt;
-&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1
-2&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git checkout master
-git merge parent/master
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Or, if you&amp;rsquo;re a fan of rebasing code, you can run this instead:&lt;/p&gt;
-&lt;div class="highlight shell"&gt;&lt;table style="border-spacing: 0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="gutter gl" style="text-align: right"&gt;&lt;pre class="lineno"&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre&gt;git rebase parent/master
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I was the only one using my fork at the time, so I chose to rebase in order to
-have a cleaner version history.&lt;/p&gt;
-
-&lt;h2&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;That&amp;rsquo;s all there is to it. The features I added have since been pulled into the
-original repo, so you can see that
-&lt;a href="https://github.com/torspark/middleman-spellcheck"&gt;my fork&lt;/a&gt;
-matches the
-&lt;a href="https://github.com/minivan/middleman-spellcheck"&gt;original repo&lt;/a&gt; (as of version
-0.7.5). This process will make it easy for me to continue adding new feature
-branches to my fork while staying current with the original repository as more
-pull requests are accepted.&lt;/p&gt;
-
-&lt;p&gt;What repositories have you contributed to lately? I&amp;rsquo;d love to
-&lt;a href="mailto:3wojkp7a"&gt;hear about it&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
